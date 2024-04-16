@@ -1,0 +1,42 @@
+window {
+  margin: 5px;
+  color: white;
+  background: transparent;
+}
+
+#input {
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+
+#input:focused {
+  border: none;
+  outline: none;
+}
+
+#inner-box {
+  margin: 10px;
+}
+
+#outer-box {
+  background-color: #323232;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 10px;;
+  margin: 20px;
+}
+
+#scroll {
+  margin: 5px;
+}
+
+#text {
+  margin: 5px;
+}
+
+#entry:selected {
+  background-color: #777777;
+  border-radius: 10px;
+  outline: none;
+}
