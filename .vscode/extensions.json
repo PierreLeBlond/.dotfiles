@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "better-ts-errors.better-ts-errors",
+    "ms-vscode-remote.remote-containers",
+    "ms-azuretools.vscode-docker",
+    "github.vscode-github-actions",
+    "github.copilot",
+    "github.copilot-chat",
+    "yzane.markdown-pdf",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "svelte.svelte-vscode",
+    "bradlc.vscode-tailwindcss",
+    "vscodevim.vim",
+    "vitest.explorer",
+    "tomoki1207.pdf"
+  ]
+}
