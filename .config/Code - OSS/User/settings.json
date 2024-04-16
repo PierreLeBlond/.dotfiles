@@ -1,0 +1,61 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.limit.value": 2,
+  "workbench.editor.showTabs": "single",
+  "workbench.layoutControl.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "window.customMenuBarAltFocus": false,
+  "window.titleBarStyle": "custom",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+  "window.commandCenter": false,
+  "editor.lineNumbers": "relative",
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.autoClosingBrackets": "beforeWhitespace",
+  "editor.autoClosingQuotes": "beforeWhitespace",
+  "vim.foldfix": false,
+  "vim.useCtrlKeys": false,
+  "vim.useSystemClipboard": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.autoReveal": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "svelte.enable-ts-plugin": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "workbench.editor.splitSizing": "distribute",
+  "workbench.editor.tabSizing": "fixed",
+  "workbench.settings.useSplitJSON": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.activityBar.location": "hidden",
+  "vim.startofline": false,
+  "markdown-pdf.displayHeaderFooter": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.compactFolders": false,
+  "jest.jestCommandLine": "pnpm run test",
+  "jest.shell": "/bin/zsh"
+}
