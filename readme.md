@@ -157,13 +157,10 @@ to print stats,
 to clean unnecessary packages,
 `yay -Sc`
 
-## keepass cli
+## keepass menu
 
-`yay kpcli`
-`sudo pacman -S perl-capture-tiny`
-
-usage,
-`kpcli --kdb <file>`
+`yay keepmenu-git`
+add `export PATH="$HOME/.local/bin:$PATH"` to `.zshenv`
 
 ## install zsh
 
@@ -268,3 +265,7 @@ to retrieve,
 ## vscode
 
 `sudo pacman -S code`
+
+## spotify
+
+`sudo pacman -S spotify-launcher`

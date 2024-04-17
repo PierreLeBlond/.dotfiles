@@ -78,6 +78,9 @@ input * {
     # Start your launcher
     bindsym $mod+d exec $menu
 
+# Start keepass menu
+bindsym $mod+p exec keepmenu
+
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
     # Despite the name, also works for non-floating windows.
@@ -222,4 +225,5 @@ bar {
 include /etc/sway/config.d/*
 
 
-bindsym $mod+Shift+f exec firefox
+bindsym $mod+shift+f exec firefox
+bindsym $mod+shift+m exec spotify-launcher
