@@ -1,14 +1,19 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 10px;
 }
 
 window#waybar {
-    background-color: #323232;
     color: #ffffff;
-    transition-property: background-color;
-    transition-duration: .5s;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+window#waybar > .horizontal {
+    background-color: #323232;
+    margin: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 4px;
     border-radius: 10px;
 }
 
@@ -34,33 +39,29 @@ window#waybar.chromium {
     border: none;
 }
 
-button {
-    /* Use box-shadow instead of border so the text isn't offset */
-    box-shadow: inset 0 -3px transparent;
-    /* Avoid rounded borders under each button name */
-    border: none;
-    border-radius: 0;
-}
-
-/* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
-button:hover {
-    background: inherit;
+#workspaces {
+    padding: 2px;
 }
 
 #workspaces button {
-	border-radius: 15px;
-	padding: 0 5px;
-	margin: 4px;
+	padding: 0px 4px;
+    margin: 0px 5px;
     background-color: transparent;
     color: #ffffff;
+    border: 0;
+    outline: 0;
 }
 
 #workspaces button:hover {
-    background: rgba(0, 0, 0, 0.2);
+    background-color: transparent;
+    border-bottom: white solid 2px;
+    border: 0;
+    outline: 0;
+    box-shadow: none;
 }
 
 #workspaces button.focused {
-    background-color: #64727D;
+    border-bottom: white solid 2px;
 }
 
 #workspaces button.urgent {
@@ -69,7 +70,6 @@ button:hover {
 
 #mode {
     background-color: #64727D;
-    box-shadow: inset 0 -3px #ffffff;
 }
 
 #clock,
@@ -93,11 +93,6 @@ button:hover {
     color: #ffffff;
 }
 
-#window,
-#workspaces {
-    margin: 0 4px;
-}
-
 /* If workspaces is the leftmost module, omit left margin */
 .modules-left > widget:first-child > #workspaces {
     margin-left: 5;
@@ -114,12 +109,11 @@ button:hover {
 }
 
 #battery {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #323232;
+    color: white;
 }
 
 #battery.charging, #battery.plugged {
-    color: #ffffff;
     background-color: #26A65B;
 }
 
@@ -320,4 +314,27 @@ label:focus {
 
 #privacy-item.audio-out {
     background-color: #0069d4;
+}
+
+#pulseaudio-slider slider {
+    min-height: 0px;
+    min-width: 0px;
+    opacity: 0;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+}
+
+#pulseaudio-slider trough {
+    min-height: 10px;
+    min-width: 80px;
+    border-radius: 5px;
+    background-color: #323232;
+}
+
+#pulseaudio-slider highlight {
+    min-width: 10px;
+    border-radius: 5px;
+    border: 0;
+    background-color: white;
 }
