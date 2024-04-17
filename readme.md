@@ -73,6 +73,8 @@ start systemd-networkd and systemd-resolved now and on startup,
 `systemctl enable --now systemd-networkd.service`
 `systemctl enable --now systemd-resolved.service`
 
+### wifi
+
 start iwd now and on startup,
 `systemctl enable --now iwd.service`
 
@@ -88,6 +90,11 @@ EnableNetworkConfiguration=true
 connect,
 `iwctl`
 `station wlan0 connect <ssid>`
+
+### ethernet
+
+`sudo pacman -S dchpcd`
+`systemctl enable --now dhcpcd@enp2s0`
 
 ## install sudo
 
