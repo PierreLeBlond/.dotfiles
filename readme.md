@@ -8,7 +8,7 @@ Follow https://wiki.archlinux.org/title/Installation_guide(Fran%C3%A7ais) along
 
 In short :
 to setup partition,
-`fidsk /dev/sda`
+`fdisk /dev/sda`
 then,
 create a new partitioning
 `g`
@@ -45,6 +45,12 @@ Save change with `w`
 
 follow instructions until chroot into the system
 
+create hostname `/etc/hostname`
+`<hostname>`
+
+set the root password
+`passwd`
+
 install iwd for wifi
 `pacman -S iwd`
 
@@ -52,20 +58,11 @@ install vim
 `pacman -S vim`
 
 setup GRUB, https://wiki.archlinux.org/title/GRUB
+`pacman -S grub efibootmgr`
 `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB`
 and microcode,
 `pacman -S intel-ucode`
 `grub-mkconfig -o /boot/grub/grub.cfg`
-
-reboot and start building your environment
-`reboot`
-
-# setup environment
-
-## create user
-
-`useradd -m pierre`
-`psswd pierre`
 
 ## setup network
 
@@ -93,8 +90,22 @@ connect,
 
 ### ethernet
 
-`sudo pacman -S dchpcd`
-`systemctl enable --now dhcpcd@enp2s0`
+`pacman -S dhcpcd`
+`systemctl enable dhcpcd@<interface>`
+to get interface, e.g. `eno1`
+`ip link`
+
+quit chroot
+`exit`
+reboot and start building your environment
+`reboot`
+
+# setup environment
+
+## create user
+
+`useradd -m pierre`
+`passwd pierre`
 
 ## install sudo
 
@@ -103,17 +114,18 @@ add user to sudoers
 `export EDITOR=vim`
 `visudo`
 and add line
-`USER_NAME HOST_NAME=(ALL:ALL) ALL`
+`<user_name> <host_name>=(ALL:ALL) ALL`
 
 exit and login with non-root user
 
 ## allow ssh connection
 
-`systemctl enable --now sshd.service`
+`sudo pacman -S openssh`
+`sudo systemctl enable --now sshd.service`
 
 ## install polkit
 
-`pacman -S polkit`
+`sudo pacman -S polkit`
 
 ## install wayland
 
@@ -157,10 +169,10 @@ to print stats,
 to clean unnecessary packages,
 `yay -Sc`
 
-## keepass menu
+## swayfx
 
-`yay keepmenu-git`
-add `export PATH="$HOME/.local/bin:$PATH"` to `.zshenv`
+`yay swayfx`
+reboot
 
 ## install zsh
 
@@ -177,15 +189,25 @@ if you want to run it again:
 oh my zsh!
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
-## autostart sway
+## configure dotfiles
 
-add to `.zshrc`
+Follow https://www.atlassian.com/git/tutorials/dotfiles
 
-```
-if [ -z "${WAYLAND_DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-  exec sway
-fi
-```
+to create,
+`git init --bare $HOME/.dotfiles`
+
+`alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'`
+and add it to `.zshrc`
+
+`dotfiles config --local status.showUntrackedFiles no`
+
+`echo ".dotfiles" >> .gitignore`
+
+to retrieve,
+`git clone --bare <git-repo-url> $HOME/.dotfiles`
+`alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'`
+`dotfiles checkout`
+`dotfiles config --local status.showUntrackedFiles no`
 
 ## auto prompt username, only ask for password
 
@@ -207,10 +229,32 @@ ExecStart=
 ExecStart=-/sbin/agetty -o '-p -f -- \\u' --noclear --autologin <username> %I $TERM
 ```
 
-## swayfx
+## keepass menu
 
-`yay swayfx`
-reboot
+`yay keepmenu-git`
+add `export PATH="$HOME/.local/bin:$PATH"` to `.zshenv`
+
+```
+echo "KERNEL==\"uinput\", GROUP=\"users\", MODE=\"0660\", \
+  OPTIONS+=\"static_node=uinput\"" | sudo tee \
+  /etc/udev/rules.d/80-uinput.rules > /dev/null
+```
+
+create & edit `~/.config/systemd/user/ydotoold.service`,
+
+```
+  [Unit]
+  Description=ydotoold Service
+
+  [Service]
+  ExecStart=/usr/bin/ydotoold
+
+  [Install]
+  WantedBy=default.target
+```
+
+`systemctl --user daemon-reload`
+`systemctl --user enable --now ydotoold.service`
 
 ## sway config
 
@@ -241,26 +285,6 @@ to connect to devices,
 `devices`
 `pair <adress>`
 `connect <adress>`
-
-## configure dotfiles
-
-Follow https://www.atlassian.com/git/tutorials/dotfiles
-
-to create,
-`git init --bare $HOME/.dotfiles`
-
-`alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'`
-and add it to `.zshrc`
-
-`dotfiles config --local status.showUntrackedFiles no`
-
-`echo ".dotfiles" >> .gitignore`
-
-to retrieve,
-`git clone --bare <git-repo-url> $HOME/.dotfiles`
-`alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'`
-`dotfiles checkout`
-`dotfiles config --local status.showUntrackedFiles no`
 
 ## vscode
 
