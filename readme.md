@@ -100,6 +100,15 @@ quit chroot
 reboot and start building your environment
 `reboot`
 
+to avoid slow startup when not connected to ethernet, (https://wiki.archlinux.org/title/Dhcpcd#dhcpcd@.service_causes_slow_startup)
+create and edit `/etc/systemd/system/dhcpcd@.service.d/no-wait.conf`,
+
+```
+[Service]
+ExecStart=
+ExecStart=/usr/bin/dhcpcd -b -q %I
+```
+
 # setup environment
 
 ## create user
@@ -133,10 +142,6 @@ Follow https://www.fosskers.ca/en/blog/wayland
 `sudo pacman -S sway alacritty waybar otf-font-awesome wofi xorg-xwayland xorg-xlsclients qt5-wayland glfw-wayland`
 exit and login as root
 `sway`
-
-## firefox
-
-`sudo pacman -S firefox`
 
 ## install git
 
@@ -189,6 +194,8 @@ if you want to run it again:
 oh my zsh!
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
+`yay autojump`
+
 ## configure dotfiles
 
 Follow https://www.atlassian.com/git/tutorials/dotfiles
@@ -229,52 +236,24 @@ ExecStart=
 ExecStart=-/sbin/agetty -o '-p -f -- \\u' --noclear --autologin <username> %I $TERM
 ```
 
+## firefox
+
+`sudo pacman -S firefox`
+
 ## keepass menu
 
 `yay keepmenu-git`
+`sudo pacman -S wl-clipboard`
 add `export PATH="$HOME/.local/bin:$PATH"` to `.zshenv`
-
-```
-echo "KERNEL==\"uinput\", GROUP=\"users\", MODE=\"0660\", \
-  OPTIONS+=\"static_node=uinput\"" | sudo tee \
-  /etc/udev/rules.d/80-uinput.rules > /dev/null
-```
-
-create & edit `~/.config/systemd/user/ydotoold.service`,
-
-```
-  [Unit]
-  Description=ydotoold Service
-
-  [Service]
-  ExecStart=/usr/bin/ydotoold
-
-  [Install]
-  WantedBy=default.target
-```
-
-`systemctl --user daemon-reload`
-`systemctl --user enable --now ydotoold.service`
-
-## sway config
-
-```
-input * {
-  repeat_delay 190
-  repeat_rate 50
-  xkb_layout "us"
-  xkb_variant "intl"
-}
-
-```
 
 ## audio
 
 `sudo pacman -S alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth`
-`yay pacmixer`
 reboot
 
 ## bluetooth
+
+https://thelinuxcode.com/configure_bluetooth_arch_linux/
 
 `sudo pacman -S bluez bluez-utils`
 `systemctl enable --now bluetooth.service`
@@ -286,10 +265,103 @@ to connect to devices,
 `pair <adress>`
 `connect <adress>`
 
+to auto connect, like a keyboard,
+create & edit `/etc/systemd/system/headphones.service`
+
+```
+[Unit]
+Description=Connect Bluetooth keyboard
+
+[Service]
+ExecStart=/usr/bin/bluetoothctl connect 11:22:33:44:55:66
+
+[Install]
+WantedBy=bluetooth.target
+```
+
+`sudo systemctl enable --now keyboard.service`
+
 ## vscode
 
-`sudo pacman -S code`
+`yay visual-studio-code-bin`
+
+## nvjm
+
+`yay nvm`
+
+add to `.zshrc`,
+`source /usr/share/nvm/init-nvm.sh`
+
+to auto nvm,
+
+```
+#
+# Run 'nvm use' automatically every time there's
+# a .nvmrc file in the directory. Also, revert to default
+# version when entering a directory without .nvmrc
+#
+enter_directory() {
+if [[ $PWD == $PREV_PWD ]]; then
+    return
+fi
+
+PREV_PWD=$PWD
+if [[ -f ".nvmrc" ]]; then
+    nvm use
+    NVM_DIRTY=true
+elif [[ $NVM_DIRTY = true ]]; then
+    nvm use default
+    NVM_DIRTY=false
+fi
+}
+
+export PROMPT_COMMAND="$PROMPT_COMMAND; enter_directory"
+```
+
+## pnpm
+
+`sudo pacman -S pnpm`
+
+add to .zshenv,
+
+```
+export PATH="$HOME/.local/bin:$PATH"
+
+# pnpm
+export PNPM_HOME="/home/pierre/.local/share/pnpm"
+case ":$PATH:" in
+	*":$PNPM_HOME:"*) ;;
+	*) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
+
+```
+
+## postgresql
+
+`sudo pacman -s postgresql`
+
+`sudo su - postgres`
+`initdb -D '/var/lib/postgres/data'`
+create user,
+`createuser --interactive`
+
+exit postgres user
+`systemctl enable --now postgresql.service`
+
+create db,
+`createdb <dbname>`
 
 ## spotify
 
 `sudo pacman -S spotify-launcher`
+
+## fonts
+
+`yay ttf-google-fonts-git`
+
+## musescore
+
+`sudo pacman -S fuse2`
+
+download musescore appimage to `~/app`

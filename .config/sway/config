@@ -79,7 +79,7 @@ input * {
     bindsym $mod+d exec $menu
 
 # Start keepass menu
-bindsym $mod+p exec keepmenu
+bindsym $mod+p exec "keepmenu -C"
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -226,4 +226,6 @@ include /etc/sway/config.d/*
 
 
 bindsym $mod+shift+f exec firefox
-bindsym $mod+shift+m exec spotify-launcher
+bindsym $mod+shift+s exec spotify-launcher
+bindsym $mod+shift+c exec code
+bindsym $mod+shift+m exec ~/app/MuseScore-*.AppImage
