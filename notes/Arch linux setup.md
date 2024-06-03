@@ -365,3 +365,10 @@ create db,
 `sudo pacman -S fuse2`
 
 download musescore appimage to `~/app`
+
+## muse-hub
+
+Download .deb from oficial site,
+from https://github.com/neferin12/muse-sounds-manager-aur/issues/1#issuecomment-2077940987,
+`sudo pacman -S dpkg`
+`sudo dpkg-deb -xv Muse_Sound_Manager_Beta.deb`
