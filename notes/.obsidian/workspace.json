@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6124434983dafdf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Réunion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch linux setup.md",
+                "file": "Réunion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch linux setup.md",
+                "file": "Réunion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch linux setup.md"
+                "file": "Réunion.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e91df9f5d8cb4d3",
+  "active": "6124434983dafdf0",
   "lastOpenFiles": [
-    "Run E2E test with Playwright.md",
     "Arch linux setup.md",
+    "Réunion.md",
+    "Run E2E test with Playwright.md",
     "Test Github Actions with Act.md",
-    "Untitled.md",
     "Welcome.md"
   ]
 }
