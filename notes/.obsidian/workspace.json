@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13f818f49098dd22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lettre de motivation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1234d2508abde8c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "portfolio/lightBakingInBlender.md",
+                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "portfolio/lightBakingInBlender.md",
+                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "portfolio/lightBakingInBlender.md"
+                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md"
               }
             }
           }
@@ -138,18 +163,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5f6d8606775a9c6a",
+  "active": "1234d2508abde8c2",
   "lastOpenFiles": [
+    "Lettre de motivation.md",
+    "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
+    "portfolio/lightBakingInBlender.md",
     "Arch linux setup.md",
-    "portfolio/atlasBakingInBlender.md",
-    "portfolio/lightBakingInBlender.md"
+    "portfolio/atlasBakingInBlender.md"
   ]
 }
