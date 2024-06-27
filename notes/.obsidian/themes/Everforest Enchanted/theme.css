@@ -924,7 +924,7 @@ div:has(h1) + div p:has(.tag) {
 }
 
 /* Embed last p */
-.markdown-embed-content .markdown-preview-section > div:last-child p {
+.markdown-embed-content .markdown-preview-section > div:last-child > p {
     margin-bottom: 0;
 }
 
@@ -1908,7 +1908,7 @@ body.background-image-enabled {
 .background-image-enabled .horizontal-main-container {
     background-color: var(--background-primary);
     background-image: var(--background-image-url);
-    background-position: var(--background-image-position);
+    background-position: var(--background-image-position, center);
     background-size: cover;
 }
 
@@ -1956,7 +1956,10 @@ body.background-image-enabled {
     .workspace-split:not(.mod-root, .mod-horizontal)
     .workspace-tab-header-container,
 .background-image-enabled
-    .workspace-split:not(.mod-left-split, .mod-right-split) {
+    .workspace-split:not(.mod-left-split, .mod-right-split),
+.background-image-enabled
+    .workspace-split.mod-left-split
+    .workspace-sidedock-vault-profile {
     background-color: transparent !important;
 }
 /* Fix double side headers */

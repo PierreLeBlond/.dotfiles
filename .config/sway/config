@@ -225,8 +225,9 @@ bar {
 include /etc/sway/config.d/*
 
 
+bindsym $mod+shift+b exec blender
+bindsym $mod+shift+c exec code --ozone-platform=wayland --enable-features=UseOzonePlatform
 bindsym $mod+shift+f exec firefox
-bindsym $mod+shift+s exec spotify-launcher
-bindsym $mod+shift+c exec code
-bindsym $mod+shift+o exec obsidian
 bindsym $mod+shift+m exec ~/app/MuseScore-*.AppImage
+bindsym $mod+shift+o exec obsidian --ozone-platform=wayland --enable-features=UseOzonePlatform
+bindsym $mod+shift+s exec spotify-launcher

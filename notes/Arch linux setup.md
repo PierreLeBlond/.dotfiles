@@ -116,7 +116,7 @@ ExecStart=/usr/bin/dhcpcd -b -q %I
 `useradd -m pierre`
 `passwd pierre`
 
-## install sudo
+## sudo
 
 `pacman -S sudo`
 add user to sudoers
@@ -132,17 +132,16 @@ exit and login with non-root user
 `sudo pacman -S openssh`
 `sudo systemctl enable --now sshd.service`
 
-## install polkit
+## polkit
 
 `sudo pacman -S polkit`
 
-## install wayland
+## wayland
 
 Follow https://www.fosskers.ca/en/blog/wayland
 `sudo pacman -S sway alacritty waybar otf-font-awesome wofi xorg-xwayland xorg-xlsclients qt5-wayland glfw-wayland`
 exit and login as root
 `sway`
-
 ## install git
 
 `sudo pacman -S git`
@@ -179,7 +178,7 @@ to clean unnecessary packages,
 `yay swayfx`
 reboot
 
-## install zsh
+## zsh
 
 `sudo pacman -S zsh`
 
@@ -356,6 +355,12 @@ create db,
 
 `sudo pacman -S spotify-launcher`
 
+to use with wayland,
+add
+```
+extra_arguments = ["--enable-features=UseOzonePlatform", "--ozone-platform=wayland"]
+```
+to `~/.config/spotify-launcher.conf`
 ## fonts
 
 `yay ttf-google-fonts-git`
@@ -366,9 +371,23 @@ create db,
 
 download musescore appimage to `~/app`
 
+`chmod +x` the appimage
+
 ## muse-hub
 
-Download .deb from oficial site,
+Download .deb from official site,
 from https://github.com/neferin12/muse-sounds-manager-aur/issues/1#issuecomment-2077940987,
 `sudo pacman -S dpkg`
-`sudo dpkg-deb -xv Muse_Sound_Manager_Beta.deb`
+`sudo dpkg-deb -xv Muse_Sound_Manager_Beta.deb /`
+
+## obsidian
+
+`sudo pacman -S obsidian`
+
+Looks like there is an issue with electron starting with v.25, so,
+[Download](https://archive.archlinux.org/packages/e/electron23/) electron 23,
+`sudo pacman -U electron23-23.3.13-9-x86_64.pkg.tar.zst`
+and modify `/usr/bin/obsidian` to use `electron23`.
+
+I use the `everforest enchanted` theme.
+And enable vim mode !
