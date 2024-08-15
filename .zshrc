@@ -131,3 +131,6 @@ fi
 }
 
 export PROMPT_COMMAND="$PROMPT_COMMAND; enter_directory"
+
+# Add .NET Core SDK tools
+export PATH="$PATH:/home/pierre/.dotnet/tools"

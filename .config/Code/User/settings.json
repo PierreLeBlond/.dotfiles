@@ -70,5 +70,10 @@
   "jest.shell": "/bin/zsh",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prisma.showPrismaDataPlatformNotification": false,
-  "github.copilot.editor.enableAutoCompletions": true
+  "github.copilot.editor.enableAutoCompletions": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+  },
+  "codeium.enableCodeLens": false,
+  "git.openRepositoryInParentFolders": "always"
 }

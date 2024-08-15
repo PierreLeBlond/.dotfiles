@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
+                "file": "Arch linux setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "157188f3b4c0b1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch linux setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
+                "file": "Arch linux setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
+                "file": "Arch linux setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lettre de motivation - Pierre Lespingal -   Capgemini.md"
+                "file": "Arch linux setup.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1234d2508abde8c2",
+  "active": "157188f3b4c0b1b0",
   "lastOpenFiles": [
+    "Comment j'aurai envie de le dire.md",
+    "Arch linux setup.md",
     "Lettre de motivation.md",
     "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
     "portfolio/lightBakingInBlender.md",
-    "Arch linux setup.md",
     "portfolio/atlasBakingInBlender.md"
   ]
 }

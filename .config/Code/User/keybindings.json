@@ -97,5 +97,13 @@
   {
     "key": "alt+g",
     "command": "workbench.action.openChat.copilot"
+  },
+  {
+    "key": "ctrl+shift+t",
+    "command": "-workbench.action.reopenClosedEditor"
+  },
+  {
+    "key": "ctrl+shift+t",
+    "command": "workbench.view.extension.test"
   }
 ]

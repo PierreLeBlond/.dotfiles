@@ -10,3 +10,7 @@ case ":$PATH:" in
 	*) export PATH="$PNPM_HOME:$PATH" ;;
 esac
 # pnpm end
+
+# .net tools
+export PATH="/home/pierre/.dotnet/tools:$PATH"
+# .net tools end

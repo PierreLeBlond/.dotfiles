@@ -391,3 +391,8 @@ and modify `/usr/bin/obsidian` to use `electron23`.
 
 I use the `everforest enchanted` theme.
 And enable vim mode !
+
+## phone file transfert
+
+`sudo pacman -S android-file-transfer`
+`aft-mtp-mount ~/mnt`
