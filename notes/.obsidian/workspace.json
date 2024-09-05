@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "959d8b2e9bc33520",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "157188f3b4c0b1b0",
+  "active": "959d8b2e9bc33520",
   "lastOpenFiles": [
     "Comment j'aurai envie de le dire.md",
     "Arch linux setup.md",

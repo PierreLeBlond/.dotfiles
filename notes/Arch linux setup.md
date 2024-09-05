@@ -396,3 +396,10 @@ And enable vim mode !
 
 `sudo pacman -S android-file-transfer`
 `aft-mtp-mount ~/mnt`
+
+## Corrupted packages when updating
+
+if
+`sudo pacman -Suy`
+results in corrupted packages,
+`pacman -S archlinux-keyring`
