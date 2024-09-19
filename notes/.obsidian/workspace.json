@@ -49,19 +49,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch linux setup.md",
+                "file": "Réunion pré-AG.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "959d8b2e9bc33520",
+            "id": "0b15bbfa4a045d20",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Compte rendu AG 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch linux setup.md",
+                "file": "Compte rendu AG 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch linux setup.md",
+                "file": "Compte rendu AG 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch linux setup.md"
+                "file": "Compte rendu AG 2024.md"
               }
             }
           }
@@ -185,18 +187,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "959d8b2e9bc33520",
+  "active": "0b15bbfa4a045d20",
   "lastOpenFiles": [
-    "Comment j'aurai envie de le dire.md",
     "Arch linux setup.md",
+    "Compte rendu AG 2024.md",
+    "Réunion pré-AG.md",
+    "Comment j'aurai envie de le dire.md",
     "Lettre de motivation.md",
     "Lettre de motivation - Pierre Lespingal -   Capgemini.md",
     "portfolio/lightBakingInBlender.md",
