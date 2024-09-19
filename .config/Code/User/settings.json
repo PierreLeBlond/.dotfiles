@@ -75,5 +75,11 @@
     "editor.defaultFormatter": "csharpier.csharpier-vscode"
   },
   "codeium.enableCodeLens": false,
-  "git.openRepositoryInParentFolders": "always"
+  "git.openRepositoryInParentFolders": "always",
+  "codeium.enableConfig": {
+    "*": true,
+    "aspnetcorerazor": true
+  },
+  "razor.format.enable": false,
+  "[aspnetcorerazor]": {}
 }
