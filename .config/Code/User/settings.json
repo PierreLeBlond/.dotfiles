@@ -20,7 +20,7 @@
   "editor.formatOnSave": true,
   "editor.autoClosingBrackets": "beforeWhitespace",
   "editor.autoClosingQuotes": "beforeWhitespace",
-  "vim.foldfix": false,
+  "vim.foldfix": true,
   "vim.useCtrlKeys": true,
   "vim.normalModeKeyBindingsNonRecursive": [
     {

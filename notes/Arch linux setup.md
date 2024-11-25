@@ -403,3 +403,11 @@ if
 `sudo pacman -Suy`
 results in corrupted packages,
 `pacman -S archlinux-keyring`
+
+## translate-shell
+
+`sudo pacman -S translate-shell`
+
+## screen sharing
+
+follow https://www.baeldung.com/linux/share-desktop-screen-via-browser
