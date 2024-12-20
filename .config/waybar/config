@@ -24,16 +24,14 @@
       "3": [],
       "4": []
     },
+    "disable-scroll": true,
+    "all-outputs": true,
+    "warp-on-scroll": false,
     "format": "{icon}",
     "on-click": "activate",
     "format-icons": {
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": "",
-      "5": "",
       "urgent": "",
-      "active": "",
+      "focused": "",
       "default": ""
     },
     "sort-by-number": true

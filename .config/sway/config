@@ -215,6 +215,15 @@ corner_radius 10
 default_dim_inactive 0.5
 shadows enable
 
+set $background #64748b
+set $text #ffffff
+set $background-inactive #4b5563
+set $text-inactive #9ca3af
+
+# class                 border backgr. text indicator child_border
+client.focused          $background $background $text $text $background
+client.unfocused        $background-inactive $background-inactive $text-inactive $text-inactive $background-inactive
+
 #
 # Status Bar:
 #

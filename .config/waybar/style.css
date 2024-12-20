@@ -44,7 +44,7 @@ window#waybar.chromium {
 }
 
 #workspaces button {
-	padding: 0px 4px;
+    padding: 0px 4px;
     margin: 0px 5px;
     background-color: transparent;
     color: #ffffff;
@@ -54,14 +54,12 @@ window#waybar.chromium {
 
 #workspaces button:hover {
     background-color: transparent;
-    border-bottom: white solid 2px;
     border: 0;
     outline: 0;
     box-shadow: none;
 }
 
 #workspaces button.focused {
-    border-bottom: white solid 2px;
 }
 
 #workspaces button.urgent {
@@ -104,7 +102,7 @@ window#waybar.chromium {
 }
 
 #clock {
-    background-color: #64727D;
+    background-color: #64748b;
     border-radius: 0px 10px 10px 0px;
 }
 
