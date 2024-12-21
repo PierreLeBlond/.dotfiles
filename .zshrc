@@ -77,9 +77,9 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # auto launch sway
-if [ -z "${WAYLAND_DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-	exec sway
-fi
+# if [ -z "${WAYLAND_DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
+#	exec sway
+# fi
 
 # export MANPATH="/usr/local/man:$MANPATH"
 

@@ -142,6 +142,12 @@ Follow https://www.fosskers.ca/en/blog/wayland
 `sudo pacman -S sway alacritty waybar otf-font-awesome wofi xorg-xwayland xorg-xlsclients qt5-wayland glfw-wayland`
 exit and login as root
 `sway`
+
+## or X
+
+https://ejmastnak.com/tutorials/arch/startx/
+
+with `picom` as a compositor
 ## install git
 
 `sudo pacman -S git`
