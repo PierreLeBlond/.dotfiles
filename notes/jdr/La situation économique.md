@@ -2,3 +2,6 @@ En arrivant à Aubepluie, si les joueurs souhaitent par exemple donner leur caut
 Après l'avoir fait, siri, l'employé au guichet, leurs propose de donner les pièces restantes ne pouvant comptabiliser pour une couronne à Rebouteux sans Frontières.
 Si les joueurs le font, cela pourrait leur attirer des faveurs plus tard, et augmente aussi leur karma.
 Sinon, elles ne servent plus à grand chose.
+
+> [!info] Ce qu'il s'est passé
+Les joueurs ont donné 500 rois à Rebouteux sans frontières.

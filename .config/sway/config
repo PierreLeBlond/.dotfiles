@@ -234,7 +234,6 @@ bar {
 
 include /etc/sway/config.d/*
 
-
 bindsym $mod+shift+b exec blender
 bindsym $mod+shift+c exec code --ozone-platform=wayland --enable-features=UseOzonePlatform
 bindsym $mod+shift+f exec firefox

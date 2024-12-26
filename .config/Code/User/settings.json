@@ -78,8 +78,10 @@
   "git.openRepositoryInParentFolders": "always",
   "codeium.enableConfig": {
     "*": true,
-    "aspnetcorerazor": true
+    "aspnetcorerazor": true,
+    "typescript": false
   },
   "razor.format.enable": false,
-  "[aspnetcorerazor]": {}
+  "[aspnetcorerazor]": {},
+  "codeium.disableSupercomplete": true
 }

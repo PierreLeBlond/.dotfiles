@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jdr/Le pacte de l'araignée.md",
+                "file": "jdr/Résumé/Épisode 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le pacte de l'araignée"
+              "title": "Épisode 2"
             }
           }
         ],
@@ -72,7 +72,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jdr/Le pacte de l'araignée.md"
+                "file": "jdr/Résumé/Épisode 2.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Le pacte de l'araignée"
+              "title": "Outline of Épisode 2"
             }
           }
         ],
@@ -181,22 +181,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "9d474d195656851e",
   "lastOpenFiles": [
-    "jdr/Le magasin de musique.md",
     "jdr/La situation économique.md",
+    "jdr/Résumé/Épisode 2.md",
+    "jdr/Résumé",
     "jdr/La malédiction de Kramenzi.md",
     "jdr/La hallebière.md",
     "jdr/L'alchimiste.md",
+    "jdr/Notes.md",
     "jdr/Le pacte de l'araignée.md",
+    "jdr/Le magasin de musique.md",
     "Arch linux setup.md",
     "daily/2024/decembre/18.md",
     "jdr",
@@ -221,7 +224,6 @@
     "feis",
     "admin",
     "Comment j'aurai envie de le dire.md",
-    "tutorials",
     "tutorials/portfolio/atlasBakingInBlender.md"
   ]
 }

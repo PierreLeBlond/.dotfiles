@@ -141,3 +141,8 @@ export PATH="$PATH:/home/pierre/.dotnet/tools"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
+	exec startx
+fi
+
