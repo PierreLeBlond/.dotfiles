@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jdr/Résumé/Épisode 2.md",
+                "file": "Arch linux setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Épisode 2"
+              "title": "Arch linux setup"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jdr/Résumé/Épisode 2.md"
+                "file": "Arch linux setup.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Épisode 2"
+              "title": "Outline of Arch linux setup"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "9d474d195656851e",
   "lastOpenFiles": [
-    "jdr/La situation économique.md",
     "jdr/Résumé/Épisode 2.md",
+    "jdr/La situation économique.md",
     "jdr/Résumé",
     "jdr/La malédiction de Kramenzi.md",
     "jdr/La hallebière.md",
