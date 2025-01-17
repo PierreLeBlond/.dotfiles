@@ -1,2 +1,4 @@
-xset r rate 190 50
-setxkbmap -layout us -variant intl -option caps:none
+# xset r rate 190 50
+# setxkbmap -layout us -variant intl -option caps:none
+xset s off -dpms
+

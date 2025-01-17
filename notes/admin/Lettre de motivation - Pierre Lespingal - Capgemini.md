@@ -5,6 +5,8 @@ J'ai ensuite fait une pause professionnel de plusieurs années pour prendre le t
 Je souhaite désormais réintégrer le milieu professionnel de l'informatique, avec une grande soif d'apprendre, sur de nouveaux langages et technologies, sur le fonctionnement en équipe, et en entreprise.
 J'apporte avec moi aussi des valeurs sociales et écologiques fortes.
 
+
+
 J’avais prévu d'envoyer une candidature libre chez Capgemini, puis trouvant cette offre d'emploi chez Sogeti, j'ai finalement souhaité prendre contact ainsi.
 De par mon parcours atypique ces dernières années, je préfère postuler à des offres junior, tout en ayant le sentiment que mes compétences global en informatique s'approchent d'un niveau intermédiaire.
 Concernant votre offre, sur l'aspect technique, j'ai peu d'expérience en C#, et, en toute transparence, aucune en .NET. 

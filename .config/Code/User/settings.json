@@ -83,5 +83,7 @@
   },
   "razor.format.enable": false,
   "[aspnetcorerazor]": {},
-  "codeium.disableSupercomplete": true
+  "codeium.disableSupercomplete": true,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnCommitCharacter": false
 }

@@ -403,7 +403,7 @@ And enable vim mode !
 `sudo pacman -S android-file-transfer`
 `aft-mtp-mount ~/mnt`
 
-## Corrupted packages when updating
+## corrupted packages when updating
 
 if
 `sudo pacman -Suy`
@@ -417,3 +417,21 @@ results in corrupted packages,
 ## screen sharing
 
 follow https://www.baeldung.com/linux/share-desktop-screen-via-browser
+
+## keyboard layout and key repeat
+
+xset command, on a ~/.xprofile or so, will be reste to seat defaults whenever a keyboard is plugged back on or is waking up.
+
+To make sure the settings are consistent, create `/etc/X11/xorg.conf.d/00-keyboard.conf` and add:
+
+```
+Section "InputClass"
+    Identifier "system-keyboard"
+    MatchIsKeyboard "on"
+    Option "XkbLayout" "us"
+    Option "XkbModel" "pc104"
+    Option "XkbVariant" "intl"
+    Option "XkbOptions" "caps:none"
+    Option "AutoRepeat" "190 20"
+EndSection
+```
