@@ -1,3 +1,6 @@
+> [!note] Quête personnel
+> Il est fait mention dans de nombreux textes de l'université d'un sceptre mystique, au grand pouvoir, qui permettrait à l'alchimiste de devenir le plus puissant de tous.
+
 > [!tip] Identifier une substance à 40%
 
 > [!tip] Créer une potion à 60%
