@@ -6,3 +6,9 @@
 Le joueur dispose de points d’ébriété, avec un maximum de 3, obtenu par consommation d'alcool.
 La hallebière se nourrit de cette état, et inflige +1 dégâts par points d'ébriété, par dés.
 En contrepartie, tous les jets de compétences dispose d'un malus de 10% par points d'ébriété.
+
+Fut de bi`ere
+Longue vue
+2 boules fumig`ene
+
+

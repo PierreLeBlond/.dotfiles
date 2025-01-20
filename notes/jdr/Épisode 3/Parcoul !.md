@@ -1,6 +1,6 @@
 C'est le lendemain de la fête.
 
-Un marchand qui attendais au port la fin de la malédiction propose au héros de les prendre à son bord, après leur avoir demander leur nom de groupe.
+Un marchand, Altan, qui attendais au port la fin de la malédiction propose au héros de les prendre à son bord, après leur avoir demander leur nom de groupe.
 Il ne les nourrira pas sur les trois journées de traversée jusqu'à Aria, le long de la Traonne puis du parcoul.
 
 Le soir, où bien sur le chemin à pied si les joueurs ne souhaitent pas profiter du bateau, lors d'un bivouac le long de la berge, et si les héros souhaitent explorer les alentours, en cherchant du bois par exemple, il surprennent un petit camp. Voir "Rencontre au coin du feu", page 76.
