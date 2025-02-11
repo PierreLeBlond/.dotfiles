@@ -85,5 +85,42 @@
   "[aspnetcorerazor]": {},
   "codeium.disableSupercomplete": true,
   "editor.acceptSuggestionOnEnter": "off",
-  "editor.acceptSuggestionOnCommitCharacter": false
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.workspaceParsingPriority": "medium",
+  "C_Cpp.files.exclude": {
+    "ext/**/*": true,
+    "**/.vscode": true,
+    "**/.vs": true
+  },
+  "cmake.showOptionsMovedNotification": false,
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "C_Cpp.codeAnalysis.exclude": {
+    "ext/**/*": true
+  },
+  "glsllint.languageSettings": {
+    "javascript": {
+      "parser": "TSAST"
+    },
+    "javascriptreact": {
+      "parser": "TSAST"
+    },
+    "typescript": {
+      "parser": "TSAST"
+    },
+    "typescriptreact": {
+      "parser": "TSAST"
+    },
+    "elm": {
+      "parser": "REGEX",
+      "patternStart": "\\[glsl",
+      "patternEnd": "\\|\\]"
+    }
+  },
+  "sherlock.userId": "1132c19c-0531-48db-8e0f-d5aebdf6a838",
+  "sherlock.appRecommendations.ninja.enabled": false
 }

@@ -33,13 +33,11 @@ Après avoir trouvé et lu le livre **Les limites de la transmutation** :
 
 Dague
 arc
-Kniga
 fourrure
 cristal magique
-soi pourri
-ballet
-anneau de pri`ere
+soie pourri
+anneau de prière
 quelques plantes
-trophet d Orisial
+trophet d'Orisial
 Follerouge
 Hamac

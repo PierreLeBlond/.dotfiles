@@ -107,6 +107,8 @@ source $ZSH/oh-my-zsh.sh
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
+alias code='code . && exit'
+
 source /usr/share/nvm/init-nvm.sh
 
 # https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-every-time-theres-a-nvmrc-file-on-the-directory/50378304#50378304
