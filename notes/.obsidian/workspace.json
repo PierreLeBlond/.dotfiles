@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "0652da33008f3e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c2a6d9398bae39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed859b7cecb91468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch linux setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch linux setup"
+            }
+          },
+          {
+            "id": "29d01f75fa926b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tutorials/portfolio/atlasBakingInBlender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "atlasBakingInBlender"
+            }
+          },
+          {
+            "id": "00bc04dd4e687002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/ChartScience.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChartScience"
+            }
+          },
+          {
+            "id": "dc6d270c55b9757c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdr/Épisode 4/Épisode 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Épisode 4"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0b477f8a9592260",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d06bf595b564e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c226f87725a8a7ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "3589fbd281e439aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ed2f9225a1fe8f0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "2c8e3e1a5e9c667e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f9778470ae160b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817cee766fcce528",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "5752b22921e18e2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "cbc6dbc442a34010",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "3d22a69eefa17043",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jdr/Épisode 4/Épisode 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Épisode 4"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "dc6d270c55b9757c",
+  "lastOpenFiles": [
+    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/Épisode 4/Épisode 4.md",
+    "jdr/Phoenix, la magicienne.md",
+    "jdr/Germaine, la barde.md",
+    "jdr/Chibrock, le tavernier.md",
+    "code/hooks/useIntersectionObserver.md",
+    "projects/ChartScience.md",
+    "code/hooks",
+    "Sans titre 1",
+    "code",
+    "Arch linux setup.md",
+    "projects/Comparaison solution d'hébergement.md",
+    "tutorials/portfolio/baking/images/pre-viewport.png",
+    "tutorials/portfolio/baking/images/baked-material.png",
+    "tutorials/portfolio/baking/images/baked-viewport.png",
+    "tutorials/portfolio/baking/images/pre-compositor.png",
+    "tutorials/portfolio/baking/images/pre-bake.png",
+    "tutorials/portfolio/baking/images/pre-material.png",
+    "tutorials/portfolio/baking/images/viewport-cycle.png",
+    "tutorials/portfolio/baking/images/color.png",
+    "tutorials/portfolio/baking/images",
+    "tutorials/portfolio/baking/New Folder",
+    "tutorials/portfolio/baking",
+    "tutorials/portfolio/New Folder",
+    "tutorials/portfolio/lightBakingInBlender.md",
+    "jdr/Épisode 3/Résumé.md",
+    "jdr/Épisode 3/Parcoul !.md",
+    "ressources/game dev.md",
+    "daily/2025/Janvier/23.md",
+    "admin/Demandes.md",
+    "daily/2025/Janvier",
+    "daily/2025",
+    "jdr/Épisode 4",
+    "admin/Résumé A..md",
+    "jdr/Épisode 2/Le pacte de l'araignée.md",
+    "jdr/Notes.md",
+    "jdr/Épisode 2/La situation économique.md",
+    "jdr/Épisode 2/Le magasin de musique.md",
+    "daily/2024/decembre/18.md",
+    "daily/2024/decembre/28.md",
+    "admin/Lettre de motivation - Pierre Lespingal - Hara.md",
+    "admin/Lettre de motivation.md",
+    "admin/Lettre de motivation - Pierre Lespingal - Capgemini.md",
+    "projects/Epistola.md"
+  ]
+}
