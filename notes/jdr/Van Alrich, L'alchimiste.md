@@ -25,7 +25,7 @@
 |                                | Pensée à distance                                                   | Kolesh laineux      | 30         |          |
 | Flaque d'Ingramus              | Dépose sur le sol une flaque explosive                              | Alcool d' Aubepluie |            |          |
 | Potion inconnue pour l'instant | voir dans le noir toute une nuit                                    | Glande de shraou    |            |          |
-|                                |                                                                     |                     |            |          |
+| Inconnue                       | nuage suffoquant                                                    | oeil d'araignée     |            |          |
 Si l'alchimiste arrive à identifier une substance, il peut choisir l'effet de la potion. Sinon, il peut toujours créer la potion, mais n'en connait pas l'effet avant de l'essayer, ce dernier étant alors choisit par le mj lui même.
 
 Après avoir trouvé et lu le livre **Les limites de la transmutation** :

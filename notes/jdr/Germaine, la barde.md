@@ -5,7 +5,7 @@
 > Son porte bonheur atteste de son ascendance et lui permettra à certaines personnes de la reconnaître.
 > 
 
-porte bonheur
+pendentif porte bonheur
 gipsière
 gourde
 trousse de maquillage

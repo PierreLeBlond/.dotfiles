@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed859b7cecb91468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch linux setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch linux setup"
-            }
-          },
-          {
-            "id": "29d01f75fa926b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tutorials/portfolio/atlasBakingInBlender.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "atlasBakingInBlender"
-            }
-          },
-          {
-            "id": "00bc04dd4e687002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/ChartScience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ChartScience"
-            }
-          },
-          {
             "id": "dc6d270c55b9757c",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "Épisode 4"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -187,7 +144,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Épisode 4"
+              "title": "Outline of Épisode 4"
             }
           }
         ],
@@ -199,23 +156,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "dc6d270c55b9757c",
   "lastOpenFiles": [
-    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/Chibrock, le tavernier.md",
     "jdr/Épisode 4/Épisode 4.md",
     "jdr/Phoenix, la magicienne.md",
+    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/Épisode 2/Le pacte de l'araignée.md",
     "jdr/Germaine, la barde.md",
-    "jdr/Chibrock, le tavernier.md",
-    "code/hooks/useIntersectionObserver.md",
+    "jdr/Épisode 2/La situation économique.md",
     "projects/ChartScience.md",
+    "code/hooks/useIntersectionObserver.md",
     "code/hooks",
     "Sans titre 1",
     "code",
@@ -243,9 +202,7 @@
     "daily/2025",
     "jdr/Épisode 4",
     "admin/Résumé A..md",
-    "jdr/Épisode 2/Le pacte de l'araignée.md",
     "jdr/Notes.md",
-    "jdr/Épisode 2/La situation économique.md",
     "jdr/Épisode 2/Le magasin de musique.md",
     "daily/2024/decembre/18.md",
     "daily/2024/decembre/28.md",

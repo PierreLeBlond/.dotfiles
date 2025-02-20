@@ -10,5 +10,7 @@ En contrepartie, tous les jets de compétences dispose d'un malus de 10% par poi
 Fut de bière
 Longue vue
 2 boules fumigène
+canne à pêche
+Poignard expéditif
 
 
