@@ -38,20 +38,27 @@ You have to setup a few things before baking :
 
 Create a lightmap texture :
 - Select the room
-- In shader editor add an *Image Texture* node
+- In shader editor add an *Image Texture* node, using float32
 - Create a new texture within this node
 
 ## Bake
 
+Set color management display transorm to standard, we want to first bake the real lighting values. 
 Make sure you selected the *Image texture* node you just created.  
 Click the *Render properties > Bake > Bake* button.  
 Wait until every corner of the image have been properly cooked, time might depends on the hoven.
 
+## Compose
+
+In the compositing editor, plug out baked hdr texture to a denoiser, then to a file output.
+Make sure to toggle on `save as render`, and to use scene color management.
+
+![Compositing](compositing.png)
 ## Taste it
 
 ![Your baked shader node](baked-shader.png)
 
-Create a new material, and connect a *Image Texture* node directly to the shader output, with our baked texture.
+Create a new material, and connect a *Image Texture* node directly to the shader output, with our exported baked ldr texture.
 
 ![Your baked render](baked.png)
 

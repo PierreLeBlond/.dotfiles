@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jdr/Épisode 4/Épisode 4.md",
+                "file": "tutorials/portfolio/lightBakingInBlender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Épisode 4"
+              "title": "lightBakingInBlender"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jdr/Épisode 4/Épisode 4.md",
+                "file": "tutorials/portfolio/lightBakingInBlender.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Épisode 4"
+              "title": "Plan de lightBakingInBlender"
             }
           }
         ],
@@ -164,10 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc6d270c55b9757c",
+  "active": "c226f87725a8a7ee",
   "lastOpenFiles": [
     "jdr/Chibrock, le tavernier.md",
+    "tutorials/portfolio/images/compositing.png",
+    "tutorials/portfolio/atlasBakingInBlender.md",
     "jdr/Épisode 4/Épisode 4.md",
+    "jdr/Van Alrich, L'alchimiste.md",
     "jdr/Phoenix, la magicienne.md",
     "jdr/Van Alrich, L'alchimiste.md",
     "jdr/Épisode 2/Le pacte de l'araignée.md",
@@ -207,8 +210,6 @@
     "daily/2024/decembre/18.md",
     "daily/2024/decembre/28.md",
     "admin/Lettre de motivation - Pierre Lespingal - Hara.md",
-    "admin/Lettre de motivation.md",
-    "admin/Lettre de motivation - Pierre Lespingal - Capgemini.md",
-    "projects/Epistola.md"
+    "admin/Lettre de motivation.md"
   ]
 }

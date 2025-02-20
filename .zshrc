@@ -108,6 +108,7 @@ source $ZSH/oh-my-zsh.sh
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 alias code='code . && exit'
+alias explore='thunar . &'
 
 source /usr/share/nvm/init-nvm.sh
 
