@@ -261,7 +261,7 @@
     --fg-blue: #3a94c5;
     --fg-purple: #df69ba;
 
-    --header-red: #f85552;
+    --header-red: oklch(0.511 0.096 186.391);
     --header-orange: #f88f44;
     --header-yellow: #f3b931;
     --header-green: #abd113;

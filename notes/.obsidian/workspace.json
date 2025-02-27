@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c2a6d9398bae39",
+        "id": "dea72c7fe3168c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "dc6d270c55b9757c",
+            "id": "2ac38e46d7db34ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutorials/portfolio/lightBakingInBlender.md",
+                "file": "jdr/Épisode 5/Aria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lightBakingInBlender"
+              "title": "Aria"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tutorials/portfolio/lightBakingInBlender.md",
+                "file": "jdr/Épisode 5/Aria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de lightBakingInBlender"
+              "title": "Plan de Aria"
             }
           }
         ],
@@ -156,60 +156,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c226f87725a8a7ee",
+  "active": "2ac38e46d7db34ea",
   "lastOpenFiles": [
-    "jdr/Chibrock, le tavernier.md",
-    "tutorials/portfolio/images/compositing.png",
-    "tutorials/portfolio/atlasBakingInBlender.md",
-    "jdr/Épisode 4/Épisode 4.md",
-    "jdr/Van Alrich, L'alchimiste.md",
-    "jdr/Phoenix, la magicienne.md",
-    "jdr/Van Alrich, L'alchimiste.md",
-    "jdr/Épisode 2/Le pacte de l'araignée.md",
-    "jdr/Germaine, la barde.md",
-    "jdr/Épisode 2/La situation économique.md",
+    "jdr/Épisode 5/Épisode 5.md",
+    "jdr/Épisode 5/Aria.md",
+    "jdr/Épisode 5/Aria.webp",
     "projects/ChartScience.md",
-    "code/hooks/useIntersectionObserver.md",
+    "projects/Epistola.md",
+    "ressources/game dev.md",
+    "projects/Comparaison solution d'hébergement.md",
+    "code/Pagination.md",
+    "Vacances & jeux.md",
+    "Porte de l'étoile.md",
+    "Épisode 5.m.md",
+    "jdr/Épisode 5/markers.json.md",
+    "jdr/Chibrock, le tavernier.md",
+    "jdr/Épisode 5/Aria.pdf",
+    "jdr/Épisode 4/Épisode 4.md",
+    "jdr/Progression.md",
+    "2025-02-24.md",
+    "jdr/Épisode 5/Aria .pdf",
+    "jdr/Épisode 5/Aria - carte avec légende.pdf",
+    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/Germaine, la barde.md",
+    "jdr/Phoenix, la magicienne.md",
+    "archlinux.md",
+    "Phoenix.md",
+    "jdr/Épisode 5",
+    "jdr/Épisode 3/Résumé.md",
+    "jdr/Épisode 3/Parcoul !.md",
+    "jdr/Épisode 2/Le pacte de l'araignée.md",
+    "jdr/Épisode 2/Le magasin de musique.md",
+    "jdr/Épisode 2/La situation économique.md",
+    "blender/portfolio/images/compositing.png",
     "code/hooks",
     "Sans titre 1",
     "code",
-    "Arch linux setup.md",
-    "projects/Comparaison solution d'hébergement.md",
-    "tutorials/portfolio/baking/images/pre-viewport.png",
-    "tutorials/portfolio/baking/images/baked-material.png",
-    "tutorials/portfolio/baking/images/baked-viewport.png",
-    "tutorials/portfolio/baking/images/pre-compositor.png",
-    "tutorials/portfolio/baking/images/pre-bake.png",
-    "tutorials/portfolio/baking/images/pre-material.png",
-    "tutorials/portfolio/baking/images/viewport-cycle.png",
-    "tutorials/portfolio/baking/images/color.png",
-    "tutorials/portfolio/baking/images",
+    "blender/portfolio/baking/images/pre-viewport.png",
+    "blender/portfolio/baking/images/baked-material.png",
+    "blender/portfolio/baking/images/baked-viewport.png",
+    "blender/portfolio/baking/images/pre-compositor.png",
+    "blender/portfolio/baking/images/pre-bake.png",
+    "blender/portfolio/baking/images/pre-material.png",
+    "blender/portfolio/baking/images/viewport-cycle.png",
+    "blender/portfolio/baking/images/color.png",
+    "blender/portfolio/baking/images",
     "tutorials/portfolio/baking/New Folder",
-    "tutorials/portfolio/baking",
-    "tutorials/portfolio/New Folder",
-    "tutorials/portfolio/lightBakingInBlender.md",
-    "jdr/Épisode 3/Résumé.md",
-    "jdr/Épisode 3/Parcoul !.md",
-    "ressources/game dev.md",
-    "daily/2025/Janvier/23.md",
-    "admin/Demandes.md",
-    "daily/2025/Janvier",
-    "daily/2025",
-    "jdr/Épisode 4",
-    "admin/Résumé A..md",
-    "jdr/Notes.md",
-    "jdr/Épisode 2/Le magasin de musique.md",
-    "daily/2024/decembre/18.md",
-    "daily/2024/decembre/28.md",
-    "admin/Lettre de motivation - Pierre Lespingal - Hara.md",
-    "admin/Lettre de motivation.md"
+    "blender/portfolio/baking"
   ]
 }

@@ -1,4 +1,4 @@
-## Previously
+## Résumé de l' épisode précédent
 
 Van Alrich, Phoenix, Chibrock et Germaine, désormais connue sous le nom des PGCD, quittent Malbouzon à bord d'une petit embarcation, et redescendent la Traonne sous un soleil radieux.
 Un bivouac, un pendus, quelques fillettes, un voleur en liberté, de quoi annoncer le début des ennuis. Leur bateau n'ira pas plus loin, un pont détruit leur bloque le passage.
@@ -16,33 +16,7 @@ La générosité de nos Héros n'est plus à prouver, et Germaine offre une nouv
 Finalement, sur le point de dire adieux à Julia, Claveau et la montagne du Dieu de la sagesse, ils sont rejoints pas des envoyés du Rideau, notamment le soldat Garnier, qui leur proposent de les accompagner jusqu'au Seigneur du Rideau, pour réclamer une récompense bien mérité.
 
 Serait-ce le début de la fortune pour nos quatre aventurier ? Vous le saurez dès maintenant, dans ce quatrième épisode.
-## Notes
-
-- Jotun a récupéré un ballai
-- Le groupe est sous les bonnes grâces d'Ina
-- Van alrich a la phobie des mots
-- Le groupe s'est posé des questions sur le gouffre de la montagne du Dieu de la sagesse, notamment les cristaux qui apparaissent au fond.
 ## Étapes clés
 
-- Voyage entre Claveau et le Rideau
-    - Première partie de voyage avant la nuit, chacun peut poser une question à Garnier
-    - Campement: Histoire de Garnier, puis des joueurs si ils le souhaitent.
-    - Apparition du golem la nuit
-
-- Rideau
-    - Accusation de Maximo ?
-    - Rencontre Chameau
-    - Musa, une question chacun.e
-    - Rencontre Anne du rideau + Quête
-    - Préparatifs
-    - Quête gourmandise
-
-- Forêt de Sauvagny
-    - Pistage Musa
-    - Monastère de Schrödinger
-    - Si à gauche, tertre du pays sauvage, Xa, et Nimh (si trop de bruit sous l'arbre)
-    - Rencontre avec la bande d'Anette
-
-- Aria ?
-
-- Remet la tête des statues
+- Acceptent de se présenter comme contingent de l'armée du Rideau auprès d'Aria pour une pièce d'or par semaine.
+- Remettent la tête des statues du dieu exilé en place.
