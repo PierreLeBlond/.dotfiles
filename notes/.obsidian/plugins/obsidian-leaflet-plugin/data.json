@@ -1,0 +1,877 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map ",
+      "lastAccessed": 1740413062318,
+      "markers": [
+        {
+          "id": "ID_8898eb6aab09",
+          "type": "default",
+          "loc": [
+            -23.25,
+            170
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6640625,
+            0.13043478260869565
+          ],
+          "description": "Porte de l'étoile",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "jdr/Épisode 5/Aria.md"
+      ]
+    },
+    {
+      "id": "aria",
+      "locked": false,
+      "lastAccessed": 1740779895838,
+      "markers": [
+        {
+          "id": "ID_e9287a6968eb",
+          "type": "Pnj",
+          "loc": [
+            849.5,
+            916.25
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.78955078125,
+            -2.3828892005610096
+          ],
+          "description": "Cevina",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a3bba19ab28",
+          "type": "Pnj",
+          "loc": [
+            845.5,
+            924
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.8046875,
+            -2.3716690042075736
+          ],
+          "description": "Sarrazin",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_786ba9bb5a29",
+          "type": "Lieux",
+          "loc": [
+            121,
+            848
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.65625,
+            -0.3394109396914446
+          ],
+          "description": "Palais Royal",
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a39ba9aaa6b",
+          "type": "Pnj",
+          "loc": [
+            125,
+            849.5
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.6591796875,
+            -0.3506311360448808
+          ],
+          "description": "Tarsile Vernet",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eab968fb2b39",
+          "type": "Pnj",
+          "loc": [
+            122.2734375,
+            871.125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Commandeure Cassandre",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2afa7bd84a7b",
+          "type": "Pnj",
+          "loc": [
+            109.13671875,
+            829.0625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Zoltan",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59aa9be889aa",
+          "type": "Pnj",
+          "loc": [
+            74.2734375,
+            847.625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Aurianne",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbd939381a78",
+          "type": "Pnj",
+          "loc": [
+            65.2734375,
+            858.625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Blaise",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d849dbea1949",
+          "type": "Pnj",
+          "loc": [
+            287.7734375,
+            554.125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "César Costa",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5be87a789a58",
+          "type": "Pnj",
+          "loc": [
+            259.7734375,
+            582.125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Capitaine Mardonios",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b6b3afa0bc9",
+          "type": "Lieux",
+          "loc": [
+            262.13671875,
+            576.0625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "La Justice du Lion",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99fa3afb3a98",
+          "type": "Lieux",
+          "loc": [
+            336.13671875,
+            713.0625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le Scorpion et la Plume",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b4beaca1b29",
+          "type": "Pnj",
+          "loc": [
+            332.75,
+            718.75
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.40380859375,
+            -0.9333800841514727
+          ],
+          "description": "Mujahid El Sufi",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f80968d85b48",
+          "type": "Pnj",
+          "loc": [
+            329.5,
+            714.25
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.39501953125,
+            -0.9242636746143057
+          ],
+          "description": "Yasin",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f898db88aae8",
+          "type": "Pnj",
+          "loc": [
+            578.63671875,
+            601.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Aristarque",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1ada8afa49fa",
+          "type": "Lieux",
+          "loc": [
+            453.63671875,
+            992.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "L'Arbalète",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a1be909a96a",
+          "type": "Pnj",
+          "loc": [
+            448.5,
+            997.75
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.94873046875,
+            -1.2580645161290323
+          ],
+          "description": "Astrid",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a818fa78582a",
+          "type": "Lieux",
+          "loc": [
+            380.63671875,
+            546.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Calisson Gouleyant",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9aaaf9d81919",
+          "type": "Pnj",
+          "loc": [
+            374.75,
+            549
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.072265625,
+            -1.0511921458625526
+          ],
+          "description": "Beaumont Bressuire",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7999981bb848",
+          "type": "Lieux",
+          "loc": [
+            561.38671875,
+            574.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "La Fouine Perdue",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b291bea381b",
+          "type": "Lieux",
+          "loc": [
+            285.38671875,
+            1030.8125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Manoir Treherne",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aafaeada9ad8",
+          "type": "Pnj",
+          "loc": [
+            285.25,
+            1035.5
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.0224609375,
+            -0.800140252454418
+          ],
+          "description": "Klemmo Treherne",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dae85b0858ca",
+          "type": "Pnj",
+          "loc": [
+            526,
+            748
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.4609375,
+            -1.4754558204768584
+          ],
+          "description": "Rupert",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a919e9d9d909",
+          "type": "Pnj",
+          "loc": [
+            281,
+            1143.75
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.23388671875,
+            -0.788218793828892
+          ],
+          "description": "Archibald",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa185b6b9b1a",
+          "type": "Pnj",
+          "loc": [
+            536.7734375,
+            1002.125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Barkovitch",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8db09ba4afb",
+          "type": "Pnj",
+          "loc": [
+            314.38671875,
+            585.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ozram",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1abb8a4809d8",
+          "type": "Pnj",
+          "loc": [
+            763.13671875,
+            955.3125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Souffrance",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e948f96849a9",
+          "type": "Pnj",
+          "loc": [
+            733.2734375,
+            976.625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Darius Pax",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbbafbc8e9d8",
+          "type": "Pnj",
+          "loc": [
+            656.63671875,
+            761.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Arkhana",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5948c9e8ca59",
+          "type": "Pnj",
+          "loc": [
+            664.5,
+            772.75
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.50927734375,
+            -1.8639551192145862
+          ],
+          "description": "Fripouille",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_796a6b9b883b",
+          "type": "Lieux",
+          "loc": [
+            421.88671875,
+            735.5625
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Nuage enchanteur",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b08892aea88",
+          "type": "Pnj",
+          "loc": [
+            456.13671875,
+            983.8125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gourmandise",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a7b296aa969",
+          "type": "Lieux",
+          "loc": [
+            347,
+            1079.25
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.10791015625,
+            -0.9733520336605891
+          ],
+          "description": "Manoir Lupiens",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db085938b808",
+          "type": "Lieux",
+          "loc": [
+            664.38671875,
+            683.3125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Pension des merveilles",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b89aab3959d9",
+          "type": "Pnj",
+          "loc": [
+            658,
+            679.75
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.32763671875,
+            -1.8457223001402525
+          ],
+          "description": "Madame Dounia",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a49fbfa1b79",
+          "type": "Lieux",
+          "loc": [
+            327.13671875,
+            477.8125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Beauté circassienne",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa2a6928fa5a",
+          "type": "Pnj",
+          "loc": [
+            321,
+            481.5
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9404296875,
+            -0.9004207573632539
+          ],
+          "description": "Ibolya",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18cbabcb0919",
+          "type": "Pnj",
+          "loc": [
+            420.75,
+            742
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.44921875,
+            -1.1802244039270686
+          ],
+          "description": "Said Ben Said",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8ab083bda58",
+          "type": "Pnj",
+          "loc": [
+            414.5,
+            738
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.44140625,
+            -1.1626928471248248
+          ],
+          "description": "Noura, Jamila et Malika",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ae8787ac8c9",
+          "type": "Pnj",
+          "loc": [
+            430.38671875,
+            620.3125
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ayla et Esra",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4909e8f9faa8",
+          "type": "Pnj",
+          "loc": [
+            634.5,
+            830.5
+          ],
+          "layer": "%5B%5BAria.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.6220703125,
+            -1.779803646563815
+          ],
+          "description": "Theobaldus",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "jdr/Épisode 5/Aria.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Lieux",
+      "iconName": "archway",
+      "color": "#fe9090",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Pnj",
+      "iconName": "user",
+      "color": "#d17aff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Aria.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Aria.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [
+      "People",
+      "Locations",
+      "Events"
+    ],
+    "markerTag": [],
+    "maxZoom": 2,
+    "minZoom": -1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "aria",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        950,
+        1365
+      ]
+    ],
+    "lat": 0,
+    "long": 0,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
