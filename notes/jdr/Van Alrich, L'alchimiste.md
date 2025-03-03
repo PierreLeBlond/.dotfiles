@@ -24,6 +24,10 @@ On parle bien de l'un des trois artefacts du roi des rois.
 | Inconnue                  | Rend transparent                                                    | Fleur lune          | 60         |          |
 |                           | Pensée à distance                                                   | Kolesh laineux      | 30         |          |
 | Flaque d'Ingramus         | Dépose sur le sol une flaque explosive                              | Alcool d' Aubepluie |            |          |
-| Inconnue                  | voir dans le noir toute une nuit                                    | Glande de shraou    |            |          |
+| Potion de Barkovitch      | voir dans le noir toute une nuit                                    | Glande de shraou    |            |          |
 | Inconnue                  | nuage suffoquant                                                    | oeil d'araignée     |            |          |
 Si l'alchimiste arrive à identifier une substance, il peut choisir l'effet de la potion. Sinon, il peut toujours créer la potion, mais n'en connait pas l'effet avant de l'essayer, ce dernier étant alors choisit par le mj lui même.
+
+
+Van vole une perruque, pas donné à la guilde
+Vole deux fioles effets décuplés

@@ -1,10 +1,10 @@
-## Résumé de l'épisode précedent
+## Résumé de l'épisode précédent
 
 Les PGCD font route depuis Claveau pour rejoindre le Rideau. Ils sont accompagnés de Garnier, le chevalier à plume, et profitent du chemin pour se raconter toutes sortes d'histoires, du moins pour les plus bavards. Phoenix, elle, préfère apprivoiser les golems de cendres plutôt que de se livrer sur son passé.
 
 Arrivés au fief du rideau, ils sauvent un cheval à bosse, et font la connaissance de son propriétaire, Musa, qui cherche des indices concertants les deux artefacts du roi des rois manquants.
 Reçu par le seigneur du rideau en personne, celui-ci les remercie de leur aides récentes, et les récompenses un peu légèrement. Il va même jusqu'à leur demander de se faire passer auprès de l'armée d'Aria pour son contingent, afin d'éviter d'avoir à envoyer ses propres soldats.
-Le médaillon de Germaine attire son attention, et un bibliothécaire révèle que les origines de Germaines ne sont peut être pas celles qu'elle croit être.
+Le médaillon de Germaine attire son attention, et un bibliothécaire révèle que les origines de Germaines ne sont peut être pas celles qu'elle croit.
 
 Avant de quitter Rideau pour Aria, l'aubergiste Nestor leur remet un paquet à apporter à sa fille Gourmandise, pâtissière à Aria.
 
