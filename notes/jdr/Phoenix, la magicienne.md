@@ -12,7 +12,7 @@ La malédiction de Kramenzi octroie la compétence spéciale suivante :
 > [!tip] Contrôle de soi à 90%
 > À chaque frustration, une réussite permet au joueur de garder son contrôle. Sur un échec, le joueur passe berzerk, attaque les êtres vivants les plus proches, puis s'écroule d'épuisement jusqu'à la fin du combat ou de l'action.
 
-De plus, celle-ci lui octroie une longévité exceptionnelle. Se débarrasser de la malédiction pourrait précipité Phoenix vers sa propre mort.
+De plus, celle-ci lui octroie une longévité exceptionnelle. Se débarrasser de la malédiction pourrait précipiter Phoenix vers sa propre mort.
 
 Phoenix ayant apprit la magie en dehors des couloirs universitaires, cela fait d'elle une magicienne hors la loi.
 En effet, lorsque ses pouvoirs seront épuisés, elle succombera à la folie, et deviendra tout aussi incontrôlable que dangereuse.
@@ -24,3 +24,14 @@ La bibliothèque de l'académie renferme un livre qui permet de reconstituer ses
 Le livre se nourrit du pouvoir des mages tués au combat, pour ensuite le retransmettre à son porteur.
 
 Phoenix n'est pas sensé mettre la main dessus la première fois qu'elle met les pieds à Aria. C'est dans le Pays Môn, sur ses terres natales, qu'elle en apprendra l'existence.
+
+Ayant parler au mage d'accueil, Friklow, elle se fait passer pour une enseignante à la recherche de travail. Celui lui demande de revenir dans un mois pour y donner cours.
+
+Néanmois, Friklow enquête sur le nom de Koriono, et découvre que c'était un magicien de l'académie, connu pour enseigner en secret l'art de la magie à des jeunes non-académiciens. De plus, il remarque que celui-ci à vécu il y a mille ans, et qu'il ne peut donc pas être le maître de Phoenix.
+
+Bien qu'ayant déjà fait les démarches administratives pour le recrutement de Phoenix, il doit la retrouver dans le dédale qu'est Aria, pour l’interroger, voir la tuer si celle-ci dévoile sa vrai nature.
+Avant de tenir l'accueil, il était lui même miséricordieux.
+
+Friklow se lancera très probablement ans un combat de magie. Il dispose de 10 cartes.
+
+Si Phoenix tue Friklow, elle aspire une partie de ses pouvoirs, et récupère de son paquet non utilisé un nombre de carte équivalent à celles restantes de Friklow au moment de sa défaite. Dans tous les cas, elle doit le mettre hors d'état de nuire, ou complètement le manipuler psychologiquement.

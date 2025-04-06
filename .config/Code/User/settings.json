@@ -122,5 +122,9 @@
     }
   },
   "sherlock.userId": "1132c19c-0531-48db-8e0f-d5aebdf6a838",
-  "sherlock.appRecommendations.ninja.enabled": false
+  "sherlock.appRecommendations.ninja.enabled": false,
+  "cSpell.language": "en,fr",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

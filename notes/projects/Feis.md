@@ -1,6 +1,6 @@
-- pas de s à 'Fanfare'
-- Problèmes de 'tout'
-- Une connaissance
+- ~~pas de s à 'Fanfare'
+- ~~Problèmes de 'tout'
+- ~~Une connaissance
 - Tu joues*
 - flûte*
 - Bouger les réseaux sociaux

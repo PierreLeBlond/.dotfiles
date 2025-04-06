@@ -1,6 +1,6 @@
 ```leaflet
 id: aria
-image: [[Aria.webp]]
+image: [[images/Aria.webp]]
 bounds:
     - [0, 0]
     - [950, 1365]

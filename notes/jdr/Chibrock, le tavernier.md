@@ -6,9 +6,8 @@ Il peut même essayer de faire la cour à Germaine.
 
 Avant tout ça, à Aria, Cevina confond Chibrock avec Chibril, et tente d'obtenir son autographe, sans donner un quelconque prénom, histoire de voir combien de temps peut durer le quiproquo.
 
-La commandeure Cassandre le confond aussi un instant avec son frère, et peut leur parler de la mission d'Irem, après les avoir relever de leurs fonctions de soldats, l'armée étant déjà partie.
+La commandeure Cassandre le confond aussi un instant avec son frère, et leur parle de la mission d'Irem, après les avoir relevé de leurs fonctions de soldats, l'armée étant déjà partie.
 Chibril devait en effet se rendre à Irem, enquêter sur le sceptre, mais ce dernier n'est toujours pas revenu, et n'a pas donné de nouvelles.
-
 ## La hallebière
 
 Le joueur dispose de points d’ébriété, avec un maximum de 3, obtenu par consommation d'alcool.
