@@ -153,3 +153,6 @@ if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 	exec startx &> ~/.xlogs
 fi
 
+# passenger
+export PATH="$PATH:/usr/lib/passenger/bin"
+
