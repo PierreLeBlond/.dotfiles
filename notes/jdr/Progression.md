@@ -40,6 +40,7 @@
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
+- Son oeuf dispose d'un sort de maintient de température, à 0 degrés.
 ## Germaine
 
 ### États
