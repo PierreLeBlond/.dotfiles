@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "27e9e17c9ef4ca03",
+    "type": "split",
+    "children": [
+      {
+        "id": "797a5b8a17218445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e35e1af3879ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/tellement-là.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tellement-là"
+            }
+          },
+          {
+            "id": "0ea34dbb9d5c8fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdr/Van Alrich, L'alchimiste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Van Alrich, L'alchimiste"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04401b70cdf7eb76",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5731319e52844e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e666d9aa9d1d4235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "a484833a6b5ce409",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "31905f88862c8433",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71116ecc328674fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa237b252f999d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5da1b80318e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "code/Test Github Actions with Act.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Test Github Actions with Act"
+            }
+          },
+          {
+            "id": "554dabef36211b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "ecfd60ccb6295113",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "99276dd333c8fa07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/tellement-là.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de tellement-là"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "f3e35e1af3879ed2",
+  "lastOpenFiles": [
+    "blender/animations/spritesheet with imageMagick.md",
+    "projects/tellement-là.md",
+    "jdr/highschool reunion/Aria - Highschool Reunion.md",
+    "blender/animations",
+    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/Aria.md",
+    "jdr/highschool reunion/pour le mj.md",
+    "jdr/Phoenix, la magicienne.md",
+    "jdr/Germaine, la barde.md",
+    "archlinux.md",
+    "jdr/highschool reunion",
+    "jdr/Épisode 7/Précédemment.md",
+    "jdr/Progression.md",
+    "jdr/Épisode 7/Préparation.md",
+    "jdr/Épisode 4/Épisode 4.md",
+    "code/Test Github Actions with Act.md",
+    "jdr/Épisode 7"
+  ]
+}

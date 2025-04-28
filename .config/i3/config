@@ -69,7 +69,7 @@ bindsym $mod+q kill
 bindsym $mod+d exec $menu
 
 #start keepass menu
-bindsym $mod+p exec "keepmenu -C"
+bindsym $mod+p exec "keepmenu"
 
 # change focus
 bindsym $mod+$left focus left
@@ -215,15 +215,13 @@ bar {
 }
 
 # ricing
-
-
-
 default_border pixel 1
 default_floating_border pixel 1
 for_window [class="^.*"] border none
 
+# shorcuts
 bindsym $mod+shift+b exec blender
-bindsym $mod+shift+c exec code
+bindsym $mod+shift+c exec ~/app/Cursor-*.AppImage
 bindsym $mod+shift+f exec firefox
 bindsym $mod+shift+m exec ~/app/MuseScore-*.AppImage
 bindsym $mod+shift+o exec obsidian

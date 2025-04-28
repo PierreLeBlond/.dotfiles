@@ -270,22 +270,7 @@ to connect to devices,
 `pair <adress>`
 `connect <adress>`
 
-to auto connect, like a keyboard,
-create & edit `/etc/systemd/system/headphones.service`
-
-```
-[Unit]
-Description=Connect Bluetooth keyboard
-
-[Service]
-ExecStart=/usr/bin/bluetoothctl connect 11:22:33:44:55:66
-
-[Install]
-WantedBy=bluetooth.target
-```
-
-`sudo systemctl enable --now keyboard.service`
-
+For a bluetooth keyboard configuration : https://project.altservice.com/issues/810
 ## vscode
 
 `yay visual-studio-code-bin`
@@ -435,3 +420,12 @@ Section "InputClass"
     Option "AutoRepeat" "190 20"
 EndSection
 ```
+
+## external drive
+
+`lsblk`
+`sudo mount /dev/sd<?> ~/mnt`
+
+## keyboard backlight
+
+`xset led`

@@ -1,6 +1,4 @@
 ### Possessions
-- Message de Musa
-- *Boite de Musa (volé)*
 - Lance en ivoire
 - Laissez passer de la commandeurs Cassandre
 - Tranches d'Orisial fumées
@@ -8,15 +6,19 @@
 - Dons de 500 rois à Rebouteux sans frontières
 ## Chibrock
 
+### États
+- Sale
 ### Compétences
 - Araignée - magie de la mort
 ### Possessions
 - Halle-bière - alcool = bonus de dégâts et malus aux compétences
 - ~~Fut de bière~~ donné à un mendiant
 - Longue vue
-- 2 boules fumigène
+- ~~2~~1 boules fumigène
 - ~~canne à pêche~~ donné en offrande à la guilde des poissonniers
-- Poignard expéditif - Usage unique, ne rate pas sa cible, tue tout ennemis, blesse les bosses
+- ~~Poignard expéditif - Usage unique, ne rate pas sa cible, tue tout ennemis, blesse les bosses~~
+- Fripouille
+- Saucisse
 ## Van Alrich
 
 ### États
@@ -27,7 +29,7 @@
 ### Compétences
 - Traversée de forêts - à 20%, permet de voyager instantanément le long d'un parcours constitué d'arbres
 ### Possessions
-- Oeuf de vouivre du désert - Doit trouver un moyen de réguler sa température pour le faire éclore
+- Oeuf de vouivre du désert, régulé à 0deg. Donnera une vouivre cracheuse de glaçons.
 - Cristal magique - Permet à un.e magicien.ne de remettre une carte dans son deck
 - Anneau de prière - Doit être associé à un Dieu avant d'être efficace
 - ~~quelques grammes de Thoum~~ donné à Yasin Al Yasin
@@ -35,12 +37,12 @@
 - Ceinture
 - Cuissardes rouges
 - Cape en plumes blanches
-- Perruque volée
-- Deux fioles artisanales en cristal, volées, améliore les potions réalisées dedans
+- Une fioles artisanale en cristal, volées, améliore les potions réalisées dedans
+- Message de Musa
+- Boite de Musa
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
-- Son oeuf dispose d'un sort de maintient de température, à 0 degrés.
 ## Germaine
 
 ### États
@@ -52,10 +54,17 @@
     - Rune de protection
 ### Possessions
 - Pendentif porte bonheur - Signe d'appartenance à une grande famille noble
-- Saucisse
+- Codex Runiqua
 - Cythare éclectique 
 - Vinaigre & sel
 - Tablette Noc
+- Chemise pourpre
+- Jupe noir
+- Codex Naturalia
+- Lettres de Zlatsko
+
+### Actions
+- Commence un peu à être connu à Aria
 
 ## Phoenix
 
@@ -66,5 +75,8 @@
 ### Possessions
 - Pendentif pigeon
 - Carte d'esperanza
+- Toge en hamac
+- Uglis ambrés d'Osmanlie, Pomelo caféiné
+- Sale
 ### Actions
 - S'est montré amicale devant le golem de cendre. Celui-ci peut se manifester à nouveau pour l'aider, si des cendres se trouvent à proximité.

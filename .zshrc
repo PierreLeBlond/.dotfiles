@@ -107,7 +107,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
-alias code='code . && exit'
+# alias code='~/app/Cursor-0.48.9-x86_64.AppImage . && exit'
 
 # For cursor to run
 export XDG_DATA_DIRS='/usr/share:/usr/local/share'
