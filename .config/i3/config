@@ -221,7 +221,7 @@ for_window [class="^.*"] border none
 
 # shorcuts
 bindsym $mod+shift+b exec blender
-bindsym $mod+shift+c exec ~/app/Cursor-*.AppImage
+bindsym $mod+shift+c exec cursor
 bindsym $mod+shift+f exec firefox
 bindsym $mod+shift+m exec ~/app/MuseScore-*.AppImage
 bindsym $mod+shift+o exec obsidian

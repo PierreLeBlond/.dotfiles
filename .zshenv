@@ -18,3 +18,6 @@ export PATH="/home/pierre/.dotnet/tools:$PATH"
 # go install
 export PATH="$(go env GOBIN):$(go env GOPATH)/bin:$PATH"
 # go install end
+
+# apps
+export PATH="/home/pierre/app:$PATH"

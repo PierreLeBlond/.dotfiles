@@ -32,6 +32,6 @@ Néanmois, Friklow enquête sur le nom de Koriono, et découvre que c'était un 
 Bien qu'ayant déjà fait les démarches administratives pour le recrutement de Phoenix, il doit la retrouver dans le dédale qu'est Aria, pour l’interroger, voir la tuer si celle-ci dévoile sa vrai nature.
 Avant de tenir l'accueil, il était lui même miséricordieux.
 
-Friklow se lancera très probablement ans un combat de magie. Il dispose de 10 cartes.
+Friklow se lance dans un combat de magie.
 
-Si Phoenix tue Friklow, elle aspire une partie de ses pouvoirs, et récupère de son paquet non utilisé un nombre de carte équivalent à celles restantes de Friklow au moment de sa défaite. Dans tous les cas, elle doit le mettre hors d'état de nuire, ou complètement le manipuler psychologiquement.
+Phoenix tue Friklow dans un combat épique, piochant le joker lui même. Elle capture la magie du miséricordieux défunt, et perce un gros trous dans le sol.

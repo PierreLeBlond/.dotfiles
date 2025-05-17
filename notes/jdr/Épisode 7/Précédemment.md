@@ -1,4 +1,4 @@
-Oyé oyé, voici les dernières nouvelles d'Aria !
+Oyé oyé, voici les Dernières Nouvelles d'Aria !
 
 Et on commence avec l'agenda culturelle. Un bien beau concert s'est tenu hier au Trône d'Aria ! Une artiste jusque là inconnue à ravis le publique avec un show intense, un peu en longueur, mais au final grandiose ! Aucune futures dates n'ont été annoncées. 
 
@@ -17,3 +17,5 @@ Le héros du jour, c'est Djago saidan, l'estimé propriétaire du nuage enchante
 Non loin de là, un règlement de compte entre une demi douzaines de mercenaires aqhabiens à fait une demi douzaine de victimes. Certains témoins en provenance du quartier des plaisirs disent avoir aperçus un cochon enragé et un chat aux griffes acérés, mais rassurez vous, ces témoins ont tout de suite été emmenés en cellule de dégrisement pour le reste de la journée.
 
 Enfin, concernant notre bon roi Blaise, son état de santé est toujours inquiétant, mais reste stable. Le responsable de l'empoisonnement pourrait, d'après nos sources au palais, se voir exceptionnellement condamné à la peine de mort lors de son procès cet après-midi.
+
+A demain, si vous le voulez bien.
