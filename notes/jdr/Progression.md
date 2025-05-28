@@ -4,6 +4,8 @@
 - Tranches d'Orisial fumées
 ### Actions
 - Dons de 500 rois à Rebouteux sans frontières
+- N'ont pas aidé César Costa
+- Tarcil varnet
 ## Chibrock
 
 ### États
@@ -43,6 +45,7 @@
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
+- Menace un des enfants d'Aria après de fausses infos sur le meurtrier du Roi.
 ## Germaine
 
 ### États
