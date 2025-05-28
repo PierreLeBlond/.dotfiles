@@ -4,3 +4,11 @@ configuration {
  combi-modi: "window,drun,ssh";
  }
 @theme "solarized"
+
+window {
+border: 0;
+padding: 10;
+border-radius: 10;
+margin: 5;
+}
+
