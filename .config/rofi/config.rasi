@@ -5,6 +5,15 @@ configuration {
  }
 @theme "solarized"
 
+* {
+foreground: #747372;
+background: #fffbef;
+normal-background: #fffbef;
+selected-normal-background: #fffbef;
+alternate-normal-background: #fffbef;
+separatecolor: @foreground;
+}
+
 window {
 border: 0;
 padding: 10;
@@ -12,3 +21,11 @@ border-radius: 10;
 margin: 5;
 }
 
+listview {
+border: 0;
+padding: 16px 0px 0px;
+}
+
+element.selected.normal {
+font: bold;
+}

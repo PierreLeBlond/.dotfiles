@@ -220,6 +220,8 @@ bar {
 default_border pixel 1
 default_floating_border pixel 1
 for_window [class="^.*"] border none
+gaps inner 5
+gaps outer 0
 
 # shorcuts
 bindsym $mod+shift+b exec blender

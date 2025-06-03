@@ -4,12 +4,11 @@
 - Tranches d'Orisial fumées
 ### Actions
 - Dons de 500 rois à Rebouteux sans frontières
-- N'ont pas aidé César Costa
-- Tarcil varnet
+- N'ont pas aidé César Costa sur les quais
 ## Chibrock
 
 ### États
-- Sale
+- Très sale
 ### Compétences
 - Araignée - magie de la mort
 ### Possessions
@@ -26,7 +25,7 @@
 ### États
 - ~~A la phobie des mots - Perte de 1pv à la lecture~~ guéri, par le MJ
 - En bonne grâce auprès du dieu exilé
-- Très propre
+- Propre
 - Membre de la guilde des voleurs
 ### Compétences
 - Traversée de forêts - à 20%, permet de voyager instantanément le long d'un parcours constitué d'arbres
@@ -42,15 +41,17 @@
 - Une fioles artisanale en cristal, volées, améliore les potions réalisées dedans
 - Message de Musa
 - Boite de Musa
+- Sifflet aux poissons
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
 - Menace un des enfants d'Aria après de fausses infos sur le meurtrier du Roi.
+- S'est fait repéré par Tarcile Varnet lorsqu'il à infiltré le palais royal
 ## Germaine
 
 ### États
 - En très bonne grâce auprès d'Ina
-- Propre
+- Sale
 ### Compétences
 - Magie des runes - à 50%, utilisation unique de toute rune préalablement rencontrée
     - Rune de destruction
@@ -68,11 +69,11 @@
 
 ### Actions
 - Commence un peu à être connu à Aria
-
 ## Phoenix
 
 ### États
 - Malédiction de Kramenzi
+- Très sale
 ### Compétences
 - Maîtrise de soi - 90%
 ### Possessions
@@ -80,6 +81,6 @@
 - Carte d'esperanza
 - Toge en hamac
 - Uglis ambrés d'Osmanlie, Pomelo caféiné
-- Sale
+- Fruits cueillis à l'arbre
 ### Actions
 - S'est montré amicale devant le golem de cendre. Celui-ci peut se manifester à nouveau pour l'aider, si des cendres se trouvent à proximité.
