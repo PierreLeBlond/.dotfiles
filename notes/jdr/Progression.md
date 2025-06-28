@@ -47,6 +47,9 @@
 - A remis des têtes de statues de dieu exilé en place
 - Menace un des enfants d'Aria après de fausses infos sur le meurtrier du Roi.
 - S'est fait repéré par Tarcile Varnet lorsqu'il à infiltré le palais royal
+
+### Dons au dieu poisson
+- 
 ## Germaine
 
 ### États

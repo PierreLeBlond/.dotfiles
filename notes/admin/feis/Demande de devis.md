@@ -11,7 +11,19 @@ Nous aimerions avoir un devis s'il vous est possible d'estimer les besoins d'un 
 Cordialement,
 ```
 
+```
+Bonjour,
+
+Nous organisons le week-end du 23 Août un rassemblement de fanfares, évènement privé qui accueillera environ 400 personnes. La ville nous met à disposition pour cela le parking P4 du Zénith de Strasbourg.
+Les demandes en sécurité sont de deux agents, 1 positionné rue des Fortins pour l’accès véhicules et l’autre volant avec surveillance de l’entrée « piétons » rue Baden Powel, ainsi qu'un agent SSIAP si cela fait partie de vos prestations.
+La mise en place de l'événement commence le jeudi 21 Août, et nécessite sûrement un gardiennage la nuit du jeudi au vendredi, et l'ouverture sera du vendredi 22 Août à 18h, au Dimanche 24 Août à 14h.
+Pouvez-vous établir un devis en ce sens si vos équipes sont disponibles à ces dates ?
+
+Cordialement,
+Pierre
+```
 ## Demandes
 
-- [Alliance security](https://www.alliance-security.fr/)
-- 
+- [Alliance security](https://www.alliance-security.fr/) -> Besoin de plus d'infos
+- ATK securite
+- Protectas securite -> Besoin de plus d'infos
