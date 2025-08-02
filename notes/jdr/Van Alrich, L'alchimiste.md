@@ -26,6 +26,8 @@ On parle bien de l'un des trois artefacts du roi des rois.
 | Flaque d'Ingramus         | Dépose sur le sol une flaque explosive                              | Alcool d' Aubepluie |            |          |
 | Potion de Barkovitch      | voir dans le noir toute une nuit                                    | Glande de shraou    |            |          |
 | Inconnue                  | nuage suffoquant                                                    | oeil d'araignée     |            |          |
+| Ice pot                   | Potion de gel                                                       | Orisial + glaçon    |            |          |
+|                           |                                                                     |                     |            |          |
 Si l'alchimiste arrive à identifier une substance, il peut choisir l'effet de la potion. Sinon, il peut toujours créer la potion, mais n'en connait pas l'effet avant de l'essayer, ce dernier étant alors choisit par le mj lui même.
 
 Désormais voleur de la guilde, il n'a pas encore déposé les fioles et la perruque au temple.

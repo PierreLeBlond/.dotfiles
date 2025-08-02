@@ -67,8 +67,9 @@
 - Tablette Noc
 - Chemise pourpre
 - Jupe noir
-- Codex Naturalia
+- --Codex Naturalia--
 - Lettres de Zlatsko
+- Bout de chemise d'Amorie Treherne
 
 ### Actions
 - Commence un peu à être connu à Aria
@@ -87,3 +88,8 @@
 - Fruits cueillis à l'arbre
 ### Actions
 - S'est montré amicale devant le golem de cendre. Celui-ci peut se manifester à nouveau pour l'aider, si des cendres se trouvent à proximité.
+
+## Beauté cyrcassienne
+
+100 pv
+
