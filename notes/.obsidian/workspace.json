@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "27e9e17c9ef4ca03",
+    "type": "split",
+    "children": [
+      {
+        "id": "797a5b8a17218445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def84f0a407e7502",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "projects/untitled space & brass game/Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Todo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04401b70cdf7eb76",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5731319e52844e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e666d9aa9d1d4235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "a484833a6b5ce409",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "31905f88862c8433",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71116ecc328674fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa237b252f999d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5da1b80318e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "code/Test Github Actions with Act.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Test Github Actions with Act"
+            }
+          },
+          {
+            "id": "554dabef36211b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "ecfd60ccb6295113",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "99276dd333c8fa07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/untitled space & brass game/Todo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Todo"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "def84f0a407e7502",
+  "lastOpenFiles": [
+    "projects/untitled space & brass game/Histoire.md",
+    "projects/untitled space & brass game/Todo.md",
+    "archlinux.md",
+    "projects/ladataviz/LaDataViz tools page.md",
+    "admin/feis/Estimation budget.md",
+    "jdr/Épisode 8/Mapping.canvas",
+    "admin/curriculum vitae.md",
+    "admin/Lettre de motivation.md",
+    "jdr/Épisode 8/Préparation.md",
+    "jdr/Épisode 8/Précédemment.md",
+    "jdr/Progression.md",
+    "admin/Résumé A..md",
+    "admin/Demandes.md",
+    "jdr/Germaine, la barde.md",
+    "jdr/Chibrock, le tavernier.md",
+    "jdr/images/Aria.webp",
+    "projects/untitled space & brass game/Sans titre.canvas",
+    "ressources/game dev.md",
+    "projects/untitled space & brass game",
+    "blender/animations/spritesheet with imageMagick.md",
+    "projects/Feis.md",
+    "jdr/Aria.md",
+    "admin/feis/Demande de devis.md",
+    "projects/ladataviz",
+    "jdr/Phoenix, la magicienne.md",
+    "jdr/Épisode 8",
+    "jdr/Épisode 7/Préparation.md",
+    "projects/tellement-là.md",
+    "jdr/Épisode 7/Précédemment.md",
+    "jdr/highschool reunion/pour le mj.md",
+    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/highschool reunion/Aria - Highschool Reunion.md",
+    "admin/feis",
+    "blender/animations",
+    "jdr/highschool reunion",
+    "jdr/Épisode 7"
+  ]
+}
