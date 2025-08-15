@@ -27,3 +27,12 @@ Pierre
 - [Alliance security](https://www.alliance-security.fr/) -> Besoin de plus d'infos
 - ATK securite
 - Protectas securite -> Besoin de plus d'infos
+
+## Extincteurs
+
+Bonjour,
+nous occupons du jeudi 21 Août au lundi 25 Août le parking du Zénith de Strasbourg pour un évènement privé rassemblant 300 personnes environs. Il y aura sur place un grand barnum ainsi que plusieurs petites tonnelles, des installations électriques et la présence d'un four à tarte flambée le samedi soir. Nous aurons un agent de sécurité certifié SSIAP.
+Nous avions en tête un besoin de deux extincteurs, pouvez vous nous dire si cela est raisonnable, et nous faire parvenir un devis de location en ce sens ?
+
+Cordialement,
+Pierre

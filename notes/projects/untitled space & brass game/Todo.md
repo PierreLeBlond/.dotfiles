@@ -8,31 +8,58 @@ kanban-plugin: board
 
 - [ ] Tile in 64x64 - outline 5px
 - [ ] Player in 128x128
+- [ ] from https://github.com/godotengine/godot/issues/103184#issuecomment-2677185757,
+    audio in web export will loop only if playback type is stream
 
 
 ## Todo
 
 - [ ] Replace state nodes by full script
-- [ ] surprise animation on soubalien intro
-- [ ] Add indication on where is the chasing enemy
-- [ ] Improve wall jump + animation seems off
-- [ ] Add option to fixed camera follow
+- [ ] Improve music
 
 
 ## Bugs
 
-- [ ] There is still some jittering with player decelration and camera follow
-- [ ] When falling from cliff, sometime falling straight, sometime gracefully
-- [ ] Wall jump while facing back
 - [ ] parallax background tilemap boundaris shows on race introduction
+- [ ] Sometime jump just after (or before ?) reaching the ground does not work
+- [ ] On start, fly animation delay does not work on first two button
+- [ ] Sometime, jump on corner takes you into the air, without vertical deceleration
+- [ ] mobile name field keyboard
 
 
 ## Done
 
 - [ ] soubalien capture camera does not follow player on y
 - [ ] parallax background with zoom
+- [ ] There is still some jittering with player decelration and camera follow
+- [ ] Make it possible to combo all notes
+- [ ] Add combo to score + visuals
+- [ ] preload musics
+- [ ] Reduce bundle size
+- [ ] Combo circle is stretch
+- [ ] Add mobile menu button
+- [ ] Stick countdown
+- [ ] Show when heart goes down
+- [ ] Display mutiple hearth rather than only one with number
+- [ ] Show mobile button only when relevant in tutorial
+- [ ] tutorial escape pause text
+- [ ] surprise animation on soubalien intro
 - [ ] Wall jump even if no direction, compare with celeste, but it seems to work already
+- [ ] mobile main menu lag
+- [ ] Wall jump while facing back
+- [ ] Right click on score name ?
+- [ ] Note bounce in rythm
+- [ ] control mobile
+- [ ] Export project in production mode
+- [ ] When falling from cliff, sometime falling straight, sometime gracefully
+- [ ] music not looping before race
+- [ ] player/soubalien layer order
+- [ ] Add bottom space on tutorial + controls
+- [ ] Start timer on race
+- [ ] Loading score
 - [ ] corner corrector 1px rounding off
+- [ ] Improve wall jump + animation seems off
+- [ ] Form validation on score submit
 - [ ] Add wallrun and long jump to tutorial
 - [ ] Checkpoint and retry
 - [ ] Run by default, walk with ctrl

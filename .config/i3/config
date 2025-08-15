@@ -225,6 +225,7 @@ gaps outer 0
 
 # shorcuts
 bindsym $mod+shift+b exec blender
+bindsym $mod+shift+g exec ~/app/Godot_*.x86_64
 bindsym $mod+shift+c exec cursor
 bindsym $mod+shift+f exec firefox
 bindsym $mod+shift+m exec ~/app/MuseScore-*.AppImage
