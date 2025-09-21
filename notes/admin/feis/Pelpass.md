@@ -1,0 +1,36 @@
+- ~10 Grands seaux boissons
+- 1 Bac à gobelets roses plus deux doubles brosses à gobelets
+- 4 tréteaux métallique
+- 1 Momo métallique
+- 2 Momos classiques
+- 2 caisses de gobelets 25cl
+    - À l'aller : 919
+    - Au retour : 807 (Comptés rapidement, ça me semble bizarre une telle différence, mais tant pis pour nous)
+- 1 white board avec feutre
+- ~10 bacs blancs
+- 3 pinces à déchets
+- 1 petit seau de cendriers de poche, pas distribués au final
+- Une partie du stock de poubelles
+    - Il est possible qu'il manque 1 pied de poubelle, utilisé pour une pancarte fanfare, et qui n'a peut être pas été rendu par la dite fanfare
+-  Une caisse de moquettes
+    - En regardant les photos je capte que la caisse en bois n'a pas été remise à rempart, je peux la rendre ce weekend pendant le Farse
+- La palette de poids
+- Le tire-palette de remparts
+- Le stock de transats
+- Une caisse de cendrier
+- Planches et tasseaux pour comptoir de bar
+- 1 escabeau
+- 12 protentes 3x3
+    - L'une d'entre elle avait déjà un boulon manquant sur l'un des poteaux, cf photos
+    - Désolé dans la précipitation on a pas marqué laquelle :/
+- 2 protentes 3x6, dont une sans house
+    - L'une d'entre elle avait déjà un trou, et était déchirée un peu plus haut, cf photos
+- Des pendards noir
+- 4 canapés
+    - Dont le petit bleu qui n'est pas sur les photos
+- La soucoupe, maintenant réparée
+- 2 frigos vitrés
+- 2 frigos non vitrés
+- Les jeux pelpass
+    - Entreposés comme prévu aux remparts, sur des momos près à partir
+    - On avait oublié de rendre des petits sacs de jeux et pièces en bois, Simon les récupère mercredi

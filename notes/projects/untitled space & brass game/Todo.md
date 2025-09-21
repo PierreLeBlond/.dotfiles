@@ -9,29 +9,38 @@ kanban-plugin: board
 - [ ] Tile in 64x64 - outline 5px
 - [ ] Player in 128x128
 - [ ] from https://github.com/godotengine/godot/issues/103184#issuecomment-2677185757,
-    audio in web export will loop only if playback type is stream
+    audio in web export will loop only if playback type is stream, but stream does not work well on low end devices
 
 
 ## Todo
 
-- [ ] Replace state nodes by full script
-- [ ] Improve music
 
 
 ## Bugs
 
-- [ ] parallax background tilemap boundaris shows on race introduction
-- [ ] Sometime jump just after (or before ?) reaching the ground does not work
-- [ ] On start, fly animation delay does not work on first two button
-- [ ] Sometime, jump on corner takes you into the air, without vertical deceleration
-- [ ] mobile name field keyboard
+- [ ] Sometime, jump on corner takes you into the air, without vertical deceleration -> canceled jump state is completely wrong
+- [ ] Music starts too late on web export
 
 
 ## Done
 
+- [ ] Corner corrector from left is off -> due to tileset collision box not taking all tile width ?
+- [ ] parallax background tilemap boundaris shows on race introduction
+- [ ] Remove life as soon as ray captured (or death_zone touch, or else)
+- [ ] Start whirl and pinch from ray state
+- [ ] Reload checkpoint when run out of lives
+- [ ] Replace state nodes by full script
+- [ ] Improve ray capture physics and animation
 - [ ] soubalien capture camera does not follow player on y
+- [ ] The third life is always shown even if live < 3
+- [ ] Avoid the need to jump camera to player each time we load a checkpoint (may be related to camera offset). Could do the same for circle transition.
 - [ ] parallax background with zoom
+- [ ] On start, fly animation delay does not work on first two button
 - [ ] There is still some jittering with player decelration and camera follow
+- [ ] Add virtual keyboard for controller and text input
+- [ ] mobile name field keyboard
+- [ ] Sometime jump just after (or before ?) reaching the ground does not work
+- [ ] Improve music
 - [ ] Make it possible to combo all notes
 - [ ] Add combo to score + visuals
 - [ ] preload musics

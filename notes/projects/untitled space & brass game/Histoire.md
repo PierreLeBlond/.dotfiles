@@ -1,3 +1,9 @@
+## Description
+
+*Prenez garde à l'espace en la Terre & Arkab Posterior* est un mini-jeu de plateforme réalisé avec le moteur Godot. Il a été premièrement destiné aux membres de plusieurs fanfares de médecine de france, faisant parti de la communication autour des 20 ans de notre fanfare, rassemblement de fanfares ayant eu lieu en Août 2025. Le thème du jeu est donc fortement emprunt d'esprit fanfaron, et de l'histoire raconté lors de l’événement.
+
+## Lore
+
 Dans le lointain système d'Arkab Posterior, sur la petite planète tellurique nommée Xuaf, prospère une civilisation semblable à la nôtre, partageant nombre de nos loisirs. Celui qui nous intéresse particulièrement, le loisir de la musique, est le catalyseur des événements qui vont suivre.
 
 Les Xuafiens sont de grands amateurs de musique. Les Xuafiens sont aussi, par une plaisanterie de l'évolution, incapables d'en jouer. Leurs oreilles, situées au bout d'antennes qu'ils portent toujours par deux au dessus de la tête, sont à même d'apprécier aussi bien les derniers tubes de la galaxie que le grand poème symphonique des planètes. Du moins en sont-ils persuadés. Car aucune musique extérieure à leur planète ne leur est parvenue à ce jour, et toute tentative de leur part de produire un son, en faisant s'entrechoquer deux objets, en propulsant de l'air dans un conduit réduit, où en pinçant une membrane tendue, ne leur donne que des migraines, tant les harmoniques résultantes sont fausses, et le rythme chaotique.

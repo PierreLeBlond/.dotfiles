@@ -1,0 +1,1 @@
+Godot 2D screen uses left to right x axis and top to bottom y axis

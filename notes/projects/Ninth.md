@@ -1,3 +1,11 @@
+## Description
+
+*Ninth* est un jeu de cartes à deux joueurs, ou l'on tente d’aligner trois cartes identiques pour marquer des points, au sein d'un carré de neuf cartes, partagé avec l'adversaire.
+
+Après avoir de créé une partie, un autre joueur peut s'y connecter via son propre appareil pour commencer à jouer.
+
+Plus tard, les cartes auront des pouvoirs suivant leur types, qui s'activeront sous diverses conditions, pour rendre le jeu bien plus intéressant.
+
 # Règles du jeu
 
 ## Composition

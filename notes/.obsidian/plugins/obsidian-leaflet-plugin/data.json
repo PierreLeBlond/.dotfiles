@@ -751,6 +751,848 @@
       "files": [
         "jdr/Aria.md"
       ]
+    },
+    {
+      "id": "monde",
+      "lastAccessed": 1758457545912,
+      "markers": [
+        {
+          "id": "ID_3b99496b39d9",
+          "type": "Pnj",
+          "loc": [
+            703.13671875,
+            691.5
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Biblihôte Iker",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bfaca38bbb8",
+          "type": "Lieux",
+          "loc": [
+            578.63671875,
+            563.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Chapelle Très Sainte",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bab87909e989",
+          "type": "Pnj",
+          "loc": [
+            579.63671875,
+            567.25
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Erika Porte-Tempête",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a69eb1b6bf8",
+          "type": "Lieux",
+          "loc": [
+            615.38671875,
+            626.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Claircabant",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca8bcbba1a7a",
+          "type": "Pnj",
+          "loc": [
+            625.88671875,
+            634.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Baron Leopold",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbda58e84b2a",
+          "type": "Pnj",
+          "loc": [
+            618.25,
+            612.5
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.59814453125,
+            -0.8671107994389902
+          ],
+          "description": "Houle (Poisson)",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08aa59396859",
+          "type": "Pnj",
+          "loc": [
+            619.63671875,
+            607.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Grésil (Marin)",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79cbb879a92b",
+          "type": "Pnj",
+          "loc": [
+            615.13671875,
+            605.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crachin (Femme)",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e84a9ab9cb3a",
+          "type": "Pnj",
+          "loc": [
+            705.63671875,
+            699.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Eorl",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ba8a9ab18fb",
+          "type": "Lieux",
+          "loc": [
+            703.63671875,
+            685
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gouffre de Staumos",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b38ca8b3b49",
+          "type": "Pnj",
+          "loc": [
+            609.2734375,
+            618
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Feonia",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a6b6a197b8b",
+          "type": "Pnj",
+          "loc": [
+            561.63671875,
+            592.25
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Melanda",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_397b1a4889ab",
+          "type": "Pnj",
+          "loc": [
+            541.88671875,
+            583.25
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bourgmestre Anselme",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b9baad8caeb",
+          "type": "Pnj",
+          "loc": [
+            523.75,
+            582
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.568359375,
+            -0.7345722300140253
+          ],
+          "description": "Ibolya",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a496b68dab8",
+          "type": "Lieux",
+          "loc": [
+            526.5,
+            577.25
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.563720703125,
+            -0.738429172510519
+          ],
+          "description": "Beauté Circassienne",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29ca1af9c8aa",
+          "type": "Pnj",
+          "loc": [
+            526.75,
+            587.75
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.573974609375,
+            -0.7387798036465638
+          ],
+          "description": "Bonne Fortune",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89398a990a99",
+          "type": "Pnj",
+          "loc": [
+            519,
+            568
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5546875,
+            -0.7279102384291725
+          ],
+          "description": "Tosca",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08d8eb9a7b58",
+          "type": "Pnj",
+          "loc": [
+            518.5,
+            574
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.560546875,
+            -0.7272089761570828
+          ],
+          "description": "Ceyden",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bf8a8c98b99",
+          "type": "Pnj",
+          "loc": [
+            518.75,
+            589.5
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.57568359375,
+            -0.7275596072931276
+          ],
+          "description": "Contant (Lapin)",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ac9faeb0b28",
+          "type": "Pnj",
+          "loc": [
+            508.25,
+            570.25
+          ],
+          "layer": "%5B%5Bworld.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.556884765625,
+            -0.7128330995792427
+          ],
+          "description": "Ssasenle Roussi (Coffre)",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "jdr/Épisode 9/Préparation.md"
+      ]
+    },
+    {
+      "id": "altabianca",
+      "lastAccessed": 1758457545912,
+      "markers": [
+        {
+          "id": "ID_a8f9a8bac938",
+          "type": "Pnj",
+          "loc": [
+            343.7734375,
+            573
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Alessandro",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fafa8bc81bda",
+          "type": "Pnj",
+          "loc": [
+            953.25,
+            352.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49473684210526314,
+            -0.930908203125
+          ],
+          "description": "Tomme de Agorso",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69ea7bdb3b6a",
+          "type": "Pnj",
+          "loc": [
+            788.2734375,
+            470
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mime / Voleur",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea6ab84b8b29",
+          "type": "Lieux",
+          "loc": [
+            804.7734375,
+            454
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Agora supérieur",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_484afa893a2b",
+          "type": "Lieux",
+          "loc": [
+            776.88671875,
+            552.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Parc des anges",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b39da38e80a",
+          "type": "Quête",
+          "loc": [
+            771.546875,
+            543
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "La louche d'or d'Altabianca p.219",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aa94a486a78",
+          "type": "Lieux",
+          "loc": [
+            902.546875,
+            648
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Catapultes",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a2a6b481b1b",
+          "type": "Pnj",
+          "loc": [
+            868.546875,
+            679
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Avis de recherche Jotun",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_680babd84998",
+          "type": "Lieux",
+          "loc": [
+            240.7734375,
+            417
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le phare",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da0a1959d99b",
+          "type": "Quête",
+          "loc": [
+            251.2734375,
+            435.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le doigt perdu p.222",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a9bfb19c9f8",
+          "type": "Lieux",
+          "loc": [
+            536.7734375,
+            395
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Accesso",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8ea881a9ba9",
+          "type": "Pnj",
+          "loc": [
+            517.7734375,
+            402
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Dame Guzne, diseuse de bonne aventure",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3819ba894a08",
+          "type": "Lieux",
+          "loc": [
+            370.5,
+            595
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8350877192982457,
+            -0.36181640625
+          ],
+          "description": "Port marchand",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9c89b8b4918",
+          "type": "Quête",
+          "loc": [
+            386.2734375,
+            519.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Alliée hier, esclave aujourd'hui p.221",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28f96a288aba",
+          "type": "Lieux",
+          "loc": [
+            572.2734375,
+            514.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Temple du Dieu Éxilé",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b18bb9b1be9",
+          "type": "Pnj",
+          "loc": [
+            562.2734375,
+            504.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Paolo Figa, vendeur de Mirabilis",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_397ae97a186b",
+          "type": "Lieux",
+          "loc": [
+            591.63671875,
+            617.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le marché",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba2b5b6a2889",
+          "type": "Lieux",
+          "loc": [
+            519.7734375,
+            768
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le Squero",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab8bc8da1978",
+          "type": "Lieux",
+          "loc": [
+            540.7734375,
+            811.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Statue de Gobi",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b38f8384baa",
+          "type": "Pnj",
+          "loc": [
+            544.2734375,
+            835
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gianni",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a4b6a7bdacb",
+          "type": "Lieux",
+          "loc": [
+            517.2734375,
+            839.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Statue de Dame Richesse",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bda98b9bb8b",
+          "type": "Lieux",
+          "loc": [
+            959.38671875,
+            339.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le Libero",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab993ab9fb19",
+          "type": "Lieux",
+          "loc": [
+            898.38671875,
+            228.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Manoir Dolce",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bda0b68cbba",
+          "type": "Pnj",
+          "loc": [
+            884.546875,
+            212
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Garde Giovanni",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db9b1b299b7a",
+          "type": "Lieux",
+          "loc": [
+            1127.88671875,
+            476.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le Tonn'haut",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894bea2adb08",
+          "type": "Pnj",
+          "loc": [
+            1122,
+            480.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6740350877192982,
+            -1.095703125
+          ],
+          "description": "Clara & Domenica Flamengi",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da2a5878b9c9",
+          "type": "Lieux",
+          "loc": [
+            787.38671875,
+            236.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Statue de Santa Sophia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_781b6bcafb99",
+          "type": "Lieux",
+          "loc": [
+            1053.5,
+            282.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.39614035087719296,
+            -1.02880859375
+          ],
+          "description": "Manoir Malatesta",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb5b99293809",
+          "type": "Pnj",
+          "loc": [
+            1053.63671875,
+            276
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Olympia Fonte",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "jdr/Épisode 9/Préparation.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -784,6 +1626,22 @@
       "type": "Pnj",
       "iconName": "user",
       "color": "#d17aff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Quête",
+      "iconName": "exclamation-circle",
+      "color": "#ffb514",
       "alpha": 1,
       "layer": true,
       "transform": {

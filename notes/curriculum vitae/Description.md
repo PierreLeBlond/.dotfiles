@@ -1,0 +1,3 @@
+A engineering degree in IT and visual computing, three years work as an employee on a web 3d rendering engine, a few years learning full-stack web development, that's what makes me work as a freelance web and 3D developer right now. I'm still open to any neat long-term employment in Strasbourg, France, or remotely.
+
+Un diplôme d'ingénieur en informatique et en science de l'image, trois années en tant qu'employé sur un moteur de rendu 3D web, plusieurs années à apprendre le développement full-stack. C'est ce qui me pousse désormais à offrir mes services de développeur freelance en développement web et 3D. Je reste toutefois ouvert à toute opportunité d'emploi motivante sur Strasbourg, ou à distance.
