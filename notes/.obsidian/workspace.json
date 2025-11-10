@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "497057a76e7a10e9",
+            "id": "def84f0a407e7502",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,21 @@
             }
           },
           {
-            "id": "c204288fdd2a98f7",
+            "id": "d4d633eb5102c874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdr/Épisode 9/Précédement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Précédement"
+            }
+          },
+          {
+            "id": "c7fb02fbde6763a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -162,7 +176,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Préparation"
+              "title": "Outline of Préparation"
             }
           }
         ],
@@ -174,59 +188,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c204288fdd2a98f7",
+  "active": "c7fb02fbde6763a7",
   "lastOpenFiles": [
+    "jdr/Épisode 9/Précédement.md",
     "jdr/Progression.md",
     "jdr/Épisode 9/Préparation.md",
-    "jdr/Épisode 9/Précédement.md",
-    "jdr/Chibrock, le tavernier.md",
     "jdr/Phoenix, la magicienne.md",
-    "jdr/Épisode 7/Préparation.md",
+    "jdr/Van Alrich, L'alchimiste.md",
+    "jdr/Épisode 8/Progression.md",
     "jdr/Épisode 8/Préparation.md",
-    "jdr/Épisode 8/Précédemment.md",
-    "jdr/Épisode 9/world.webp",
-    "jdr/Aria.md",
-    "jdr/images/Aria.webp",
+    "projects/untitled space & brass game/Todo.md",
+    "jdr/Chibrock, le tavernier.md",
     "jdr/Épisode 9/Altabianca.webp",
     "jdr/Épisode 8/Mapping.canvas",
-    "jdr/Germaine, la barde.md",
-    "curriculum vitae/Description.md",
-    "jdr/Épisode 9",
-    "projects/untitled space & brass game/Todo.md",
-    "admin/feis/Pelpass.md",
-    "curriculum vitae/Projects.md",
-    "admin/feis/Estimation budget.md",
-    "admin/feis/Demande de devis.md",
-    "code/godot/position to uv.md",
-    "admin/Sans titre.md",
-    "admin/Lettre de motivation - Pierre Lespingal - TokTokDoc.md",
-    "admin/Lettre de motivation - Pierre Lespingal - Hara.md",
-    "admin/Lettre de motivation - Pierre Lespingal - Capgemini.md",
-    "admin/Lettre de motivation.md",
-    "admin/Lettre de motivation - Pierre Lespingal - Viveris.md",
-    "admin/feis/Résumé A..md",
-    "curriculum vitae",
-    "projects/untitled space & brass game/Histoire.md",
-    "code/godot",
+    "projects/Ustom.md",
+    "projects/RoiDePique.md",
+    "projects/Recipe.md",
+    "projects/RPlaylist.md",
+    "projects/Quests.md",
+    "projects/Portfolio.md",
+    "projects/Ninth.md",
     "projects/Feis.md",
-    "ressources/terrain_sets_docs.pdf",
+    "projects/3ducation.md",
+    "jdr/Épisode 9/world.webp",
+    "jdr/Épisode 9",
+    "curriculum vitae/Projects.md",
+    "curriculum vitae/Description.md",
+    "curriculum vitae",
+    "code/godot/position to uv.md",
+    "code/godot",
+    "admin/feis/Résumé A..md",
+    "admin/feis/Pelpass.md",
+    "projects/ninth.md",
+    "admin/curriculum vitae.md",
+    "admin/Résumé A..md",
+    "jdr/images/Aria.webp",
     "projects/untitled space & brass game/Sans titre.canvas",
     "projects/untitled space & brass game",
     "projects/ladataviz",
     "jdr/Épisode 8",
     "admin/feis",
     "blender/animations",
-    "jdr/highschool reunion"
+    "jdr/highschool reunion",
+    "jdr/Épisode 7"
   ]
 }

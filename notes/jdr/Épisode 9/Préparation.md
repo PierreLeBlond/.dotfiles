@@ -14,11 +14,42 @@ defaultZoom: -1
 scale: 0.007
 ```
 
+## Colline d'Elmas
+
+- Grésil est repartit sur les flots en abandonnant la baronnie
+- La vouivre mange à sa faim
+
+## Gouffre de Staumos
+
+- Les PGCDS savent que le sceptre n'est pas à Irem, mais au Pays Môn.
+- Ils savent que Chibril est à Esperanza
+- Phenix sait qu'elle doit trouver un livre à la bibliothèque d'Aria, et d'autres informations au pays Môn
+- Garder la vouivre au frais
+- Le Codex Major sera montré lors du dessert des noces 
+- Les PGCDS sont mentionné par le gouffre
+
+- Van Alrich à prit une caisse de morue pour une valeur de 5 pièces d'or
+
+- Les PGCDS on aidé Houle, qui s'en souviendra
+
+## Claircabant
+
+- La musique de Germaine n'est pas très appréciée à Claircabant
+- Les PGCDS ont sauvé Claircabant du Baron, et seront très bien accueilli à leur prochain passage.
+
 ## Au port
 
 La traversé coûte 2 pièces d'or.
 Bonne fortune ne possède qu'une pièce d'or, mais peut enseigner un personnage pour la pièce d'or manquante.
 Tosca et Ceyden, en tant que navigatrices, demandent 2 pièces d'or chacune pour la traversée.
+Constant pour le lapin.
+
+Quêtes acceptés :
+- Bonne fortune embarque
+- Tosca embarque
+- Les lapins en cages montent sur le bateau
+- Pas de coffre de Ssalense Roussi
+- Ils ont prit les pièces de Léandre pour la longue vue
 
 ## Traversée
 

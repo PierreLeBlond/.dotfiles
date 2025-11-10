@@ -32,6 +32,6 @@ Quête personnelles :
 
 Stock de la Beauté circassienne :
 - 5 caisses de robes
-- 3 caisses de morues
+- 2 caisses de morues
 - 5 caisses de vins
-- 30 pièces d'ors
+- 35 pièces d'ors

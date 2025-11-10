@@ -42,6 +42,7 @@
 - Message de Musa
 - Boite de Musa
 - Sifflet aux poissons
+- Poudre d'obsidienne
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
