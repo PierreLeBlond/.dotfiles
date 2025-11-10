@@ -20,6 +20,7 @@
     - Application de recette de cuisine
     - Gestionnaire de playlist avec les API Spotify
     - Prototype de jeu de carte en ligne avec WebSocket
+    - Clone de sutom
 - Mise à jour et auto-formation
     - Exploration de nombreux langages de programmation, comme C++, Go et C#.
     - Compréhension des concepts liés au back-end, approfondissement des compétences en développement front.

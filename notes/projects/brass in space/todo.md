@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Notes
 
-- [ ] Tile in 64x64 - outline 5px
+- [ ] Tile in 64x64 - outline 3px
 - [ ] Player in 128x128
 - [ ] from https://github.com/godotengine/godot/issues/103184#issuecomment-2677185757,
     audio in web export will loop only if playback type is stream, but stream does not work well on low end devices
@@ -14,17 +14,49 @@ kanban-plugin: board
 
 ## Todo
 
+- [ ] Add small movement animation (wind, leafs, etc)
+- [ ] Add details to tilesheets (leafs, foliage, mushrooms, etc)
+- [ ] Make level size to music length
+- [ ] Add custom url
+- [ ] DEPLOY ON ITCH.IO
+- [ ] Add build version number
+- [ ] Name input on victory screen
+- [ ] Make own virtual keyboard
 
 
 ## Bugs
 
-- [ ] Sometime, jump on corner takes you into the air, without vertical deceleration -> canceled jump state is completely wrong
-- [ ] Music starts too late on web export
+- [ ] Deactivate player collision layer on portal entering
+- [ ] Maybe do not wall jump when pressing against the wall to avoid unwanted jumps ? Especially on short obstacles that aren't really walls
+- [ ] Sound bug on whooshes ?
+- [ ] From SilentWolf to Talo
 
 
 ## Done
 
+- [ ] Remove animation player warnings
+- [ ] Combo note as a music staff following the player
+- [ ] Handle audio track volume separatly
+- [ ] Rename to brass in space
+- [ ] Improve HUD elements and theme
+- [ ] Jumping close to soubalien in tutorial stuck animation
+- [ ] Camera position on race checkpoint load
+- [ ] Remove bones warning
+- [ ] Improve flute intro music
+- [ ] Reduce corner correction vector size
+- [ ] Remove note counter flash at start
 - [ ] Corner corrector from left is off -> due to tileset collision box not taking all tile width ?
+- [ ] More camera speed on switch, like on capture
+- [ ] Combo note effect duration not matching combo duration
+- [ ] Add effect on note as soon as they are collected, like white flash
+- [ ] Synchronize note animation with music beats
+- [ ] Add animation to note counter
+- [ ] Activate whirl&pinch always or at least within the cone to avoid sprite jump
+- [ ] quicker transition to muffled sound in, maybe add whoosh sound ?
+- [ ] Refactor combo note logic, handle duration from a top level component
+- [ ] Bug when switching between walk and run
+- [ ] Music starts too late on web export
+- [ ] Sometime, jump on corner takes you into the air, without vertical deceleration -> canceled jump state is completely wrong
 - [ ] parallax background tilemap boundaris shows on race introduction
 - [ ] Remove life as soon as ray captured (or death_zone touch, or else)
 - [ ] Start whirl and pinch from ray state
@@ -104,10 +136,16 @@ kanban-plugin: board
 - [ ] Add bottom limit to cutscene camera
 
 
+## Aborted
+
+- [ ] Add camera shake on player trip
+- [ ] Remove first race whoosh
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+declare -A devices_map
+
+devices=$(bluetoothctl devices | grep -oP '(?<=Device )(.*)$')
+
+names=""
+
+while IFS= read -r line; do
+	id=${line:0:17}
+	name=${line:18}
+	if [[ -n "$names" ]]; then
+		names="${names}\n"
+	fi
+	names="${names}${name}"
+	devices_map[$name]=$id
+done <<< "$devices"
+
+connect() { \
+choice=$(echo -e "$names" | rofi -dmenu -i -p "Audio source")
+echo $choice
+id="${devices_map[$choice]}"
+echo $id
+bluetoothctl connect $id
+}
+
+connect
+
+

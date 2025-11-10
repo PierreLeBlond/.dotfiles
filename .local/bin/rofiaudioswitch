@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+sinks=$(pacmd list-sinks | grep -oP '(?<=name: <)(.*)(?=>)')
+
+echo -e "$sinks"
+
+choosespeakers() { \
+choice=$(echo "$sinks" | rofi -dmenu -i -p "Audio source")
+pacmd set-default-sink "$choice"
+}
+
+choosespeakers
+
+

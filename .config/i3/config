@@ -98,7 +98,7 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+b split h
+bindsym $mod+c split h
 
 # split in vertical orientation
 bindsym $mod+v split v
@@ -118,7 +118,7 @@ bindsym $mod+Shift+space floating toggle
 bindsym $mod+space focus mode_toggle
 
 # focus the parent container
-bindsym $mod+a focus parent
+# bindsym $mod+a focus parent
 
 # focus the child container
 #bindsym $mod+d focus child
@@ -231,4 +231,9 @@ bindsym $mod+shift+f exec firefox
 bindsym $mod+shift+m exec ~/app/MuseScore-*.AppImage
 bindsym $mod+shift+o exec obsidian
 bindsym $mod+shift+s exec spotify
+
+# rofi scripts
+bindsym $mod+a exec .local/bin/rofiaudioswitch
+bindsym $mod+b exec .local/bin/bluetooth
+bindsym Scroll_Lock exec .local/bin/keyboardlight
 

@@ -1,1 +1,0 @@
-Un aperçu de quelques travaux et projets intégrés à un espace 3d interactif.

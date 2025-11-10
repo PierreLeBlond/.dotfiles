@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+light() { \
+xset led
+}
+
+light
+
+
