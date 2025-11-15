@@ -754,7 +754,7 @@
     },
     {
       "id": "monde",
-      "lastAccessed": 1758457545912,
+      "lastAccessed": 1763216766597,
       "markers": [
         {
           "id": "ID_3b99496b39d9",
@@ -1104,12 +1104,12 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "jdr/Épisode 9/Préparation.md"
+        "jdr/Épisode 10/Préparation.md"
       ]
     },
     {
       "id": "altabianca",
-      "lastAccessed": 1758466296223,
+      "lastAccessed": 1763216766597,
       "markers": [
         {
           "id": "ID_a8f9a8bac938",
@@ -1409,13 +1409,16 @@
           "id": "ID_ab8bc8da1978",
           "type": "Lieux",
           "loc": [
-            540.7734375,
-            811.5
+            508,
+            820
           ],
           "layer": "%5B%5BAltabianca.webp%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.1508771929824562,
+            -0.49609375
+          ],
           "description": "Statue de Gobi",
           "minZoom": null,
           "maxZoom": null,
@@ -1441,13 +1444,16 @@
           "id": "ID_7a4b6a7bdacb",
           "type": "Lieux",
           "loc": [
-            517.2734375,
-            839.5
+            314,
+            786
           ],
           "layer": "%5B%5BAltabianca.webp%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.1031578947368421,
+            -0.306640625
+          ],
           "description": "Statue de Dame Richesse",
           "minZoom": null,
           "maxZoom": null,
@@ -1586,12 +1592,44 @@
           "minZoom": 0,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea79ab89eaaa",
+          "type": "Pnj",
+          "loc": [
+            439.88671875,
+            766.25
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Shazam",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_091a08f97a1a",
+          "type": "Quête",
+          "loc": [
+            445.38671875,
+            758.5
+          ],
+          "layer": "%5B%5BAltabianca.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "La vision par-delà la vision\np.211",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "jdr/Épisode 9/Préparation.md"
+        "jdr/Épisode 10/Préparation.md"
       ]
     }
   ],

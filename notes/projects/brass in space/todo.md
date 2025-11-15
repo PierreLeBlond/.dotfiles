@@ -14,22 +14,15 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Add small movement animation (wind, leafs, etc)
-- [ ] Add details to tilesheets (leafs, foliage, mushrooms, etc)
-- [ ] Make level size to music length
 - [ ] Add custom url
 - [ ] DEPLOY ON ITCH.IO
-- [ ] Add build version number
-- [ ] Name input on victory screen
-- [ ] Make own virtual keyboard
 
 
 ## Bugs
 
 - [ ] Deactivate player collision layer on portal entering
 - [ ] Maybe do not wall jump when pressing against the wall to avoid unwanted jumps ? Especially on short obstacles that aren't really walls
-- [ ] Sound bug on whooshes ?
-- [ ] From SilentWolf to Talo
+- [ ] Screen backgrounds when stretched
 
 
 ## Done
@@ -39,7 +32,11 @@ kanban-plugin: board
 - [ ] Handle audio track volume separatly
 - [ ] Rename to brass in space
 - [ ] Improve HUD elements and theme
+- [ ] Add max length on player name
+- [ ] From SilentWolf to Talo
 - [ ] Jumping close to soubalien in tutorial stuck animation
+- [ ] Make own virtual keyboard
+- [ ] Name input on victory screen
 - [ ] Camera position on race checkpoint load
 - [ ] Remove bones warning
 - [ ] Improve flute intro music
@@ -140,6 +137,11 @@ kanban-plugin: board
 
 - [ ] Add camera shake on player trip
 - [ ] Remove first race whoosh
+- [ ] Add small movement animation (wind, leafs, etc)
+- [ ] Add details to tilesheets (leafs, foliage, mushrooms, etc)
+- [ ] Make level size to music length
+- [ ] Add build version number
+- [ ] Sound bug on whooshes ?
 
 
 
