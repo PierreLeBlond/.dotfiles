@@ -29,7 +29,7 @@ kanban-plugin: board
     - 5 caisses de robes
     - 2 caisses de morues
     - 5 caisses de vins
-    - 37 pièces d'or
+    - 27 pièces d'or
 
 
 ## Quêtes en cours

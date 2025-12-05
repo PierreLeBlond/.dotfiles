@@ -35,12 +35,20 @@ kanban-plugin: board
 
 - [ ] Bonne fortune est à bord
 - [ ] Tosca est à bord
+- [ ] 2 couronnes pour Carla, et un pommelo caféiné
+- [ ] Libération d'Aldo, du barbare et de Carla.
+- [ ] Aldo est maquillé maladroitement.
+- [ ] Germaine lance une pièce dans la fontaine
+- [ ] Bonne fortune attends le matin du mariage au phare
+- [ ] Chibrok et Phenix ont pris une moitié de mirabilis, Phenix est encore sous l'effet
+- [ ] Bonus de 20% jet musical pour le prochain lancer
 
 
 ## Possessions
 
 - [ ] 2 pièces d'or de Léandre
 - [ ] Oreo et Bella les lapins
+- [ ] Chevalière et doigt
 
 
 ## Personnages

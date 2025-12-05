@@ -20,6 +20,7 @@
 - ~~Poignard expéditif - Usage unique, ne rate pas sa cible, tue tout ennemis, blesse les bosses~~
 - Fripouille
 - Saucisse
+- 2 mirabilis
 ## Van Alrich
 
 ### États
@@ -43,6 +44,7 @@
 - Boite de Musa
 - Sifflet aux poissons
 - Poudre d'obsidienne
+- 2 canigus retractus
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
@@ -71,6 +73,7 @@
 - --Codex Naturalia--
 - Lettres de Zlatsko
 - Bout de chemise d'Amorie Treherne
+- Partition rose (aphrodisiaque)
 
 ### Actions
 - Commence un peu à être connu à Aria
