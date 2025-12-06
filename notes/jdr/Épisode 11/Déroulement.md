@@ -34,8 +34,6 @@ kanban-plugin: board
 ## Actions
 
 - [ ] Le bateau est protégé au port
-- [ ] Bonne fortune est à bord
-- [ ] Tosca est à bord
 - [ ] 2 couronnes pour Carla, et un pommelo caféiné
 - [ ] Libération d'Aldo, du barbare et de Carla.
 - [ ] Aldo est maquillé maladroitement, et les accompagnes

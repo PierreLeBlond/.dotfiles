@@ -223,6 +223,8 @@ for_window [class="^.*"] border none
 gaps inner 5
 gaps outer 0
 
+client.focused #4c7899 #285577 #ffffff #2e9ef4 #285577
+
 # shorcuts
 bindsym $mod+shift+b exec blender
 bindsym $mod+shift+g exec ~/app/Godot_*.x86_64
@@ -236,4 +238,7 @@ bindsym $mod+shift+s exec spotify
 bindsym $mod+a exec .local/bin/rofiaudioswitch
 bindsym $mod+b exec .local/bin/bluetooth
 bindsym Scroll_Lock exec .local/bin/keyboardlight
+
+# auto-layout
+exec_always --no-startup-id i3-auto-layout
 
