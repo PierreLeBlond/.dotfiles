@@ -125,5 +125,15 @@
   "cSpell.language": "en,fr",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "continue.enableTabAutocomplete": false,
+  "files.associations": {
+    "*.gd": "gdscript"
+  },
+  "[gdscript]": {
+    "editor.tabSize": 4
+  },
+  "files.exclude": {
+    "**/*.gd.uid": true
   }
 }
