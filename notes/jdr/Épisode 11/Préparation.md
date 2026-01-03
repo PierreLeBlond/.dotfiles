@@ -59,3 +59,78 @@ Les pgcds remontent la colline et se dirigent vers le quartier des manoirs.
     - Gateau creux, et ne va pas être mangé
     - Fenêtre vorace
     - Invités brouillant
+-
+
+## Louche d'or
+
+Chibrock : 
+La cervelle de balaine à la mode d'aqqhbqh
+Piment
+Cervelle de baleine
+Thoum
+- Fumer la cervelle à la touhm
+- Marinade graisse de cervelle piment
+- Tremper la cervelle dans la marinade
+- Cervelle sur broche
++10
+
++4
++9
++10
+
++23
+
+Phenix:
+Tatin de niglisse
+Nigllo
+Réglisse
+café
+Prendre le niglo, retirer les piques, les pattes et les organes
+Tapisser le fond de réglisse
+Chauffer au bain marie 36 minutes
+Beurre, farine et 5 cuillière de café en poudre pour le crumble
+Insérer dans le niglo
+Four tradi pendant 48 minutes
+Remettre les pattes de niglo sur le dessus, retourner la préparation
+
++3
++6
++3
+
++12
+
+Germaine:
+La grillade fumée surprise accompagné de sa sauce forestière
+- Petit feu crépitant avec lamelle de sanglier épaisses
+- Bouillon champignons oignons sanglier (cuisse) dans une marmite
+- Présenter en mode ragout avec les lamelles de sanglier
+- Prendre le bocal d'ingrédient secret, déposer une noisette
+
++6
++9
++10
+
++27
+
+Van alrich:
+La simplicité créquante knigalaté
+chocolat
+crête de cock
+crême chantilly
+Séparer le chocolat 1/3, 2/3 bain marie et petit morceaux
+couper la crête
+Séparer le bain marie en deux, 1/2 avec la crême, 1/2 refroidir avec la vouivre
+Remettre et dresser tout ensemble
+Chauffer avant de servir
+
++2
++8
++6
++8
+
++24
+
+
+Dino : 16
+Diana : 29
+Tingo : 25
