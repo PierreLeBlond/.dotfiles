@@ -430,6 +430,10 @@ EndSection
 
 `xset led`
 
-## Graphics
+## graphics
 
 On my maxwell architecture : https://archlinux.fr/accueil/le-driver-nvidia-590-abandonne-le-support-de-pascal-et-des-versions-anterieures-les-paquets-principaux-passent-aux-modules-open
+
+## bluez bug
+
+https://github.com/bluez/bluez/issues/1896#issuecomment-3911151919

@@ -24,41 +24,41 @@
   "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["u"],
-      "commands": ["undo"]
+      "commands": ["undo"],
     },
     {
       "before": ["<C-r>"],
-      "commands": ["redo"]
-    }
+      "commands": ["redo"],
+    },
   ],
   "vim.useSystemClipboard": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
   "explorer.autoReveal": false,
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "svelte.enable-ts-plugin": true,
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[svelte]": {
-    "editor.defaultFormatter": "svelte.svelte-vscode"
+    "editor.defaultFormatter": "svelte.svelte-vscode",
   },
   "workbench.editor.splitSizing": "distribute",
   "workbench.editor.tabSizing": "fixed",
   "workbench.settings.useSplitJSON": true,
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "workbench.activityBar.location": "hidden",
   "vim.startofline": false,
@@ -71,14 +71,14 @@
   "prisma.showPrismaDataPlatformNotification": false,
   "github.copilot.editor.enableAutoCompletions": true,
   "[csharp]": {
-    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+    "editor.defaultFormatter": "csharpier.csharpier-vscode",
   },
   "codeium.enableCodeLens": false,
   "git.openRepositoryInParentFolders": "always",
   "codeium.enableConfig": {
     "*": true,
     "aspnetcorerazor": true,
-    "typescript": false
+    "typescript": false,
   },
   "razor.format.enable": false,
   "[aspnetcorerazor]": {},
@@ -87,53 +87,62 @@
   "editor.acceptSuggestionOnCommitCharacter": false,
   "cmake.pinnedCommands": [
     "workbench.action.tasks.configureTaskRunner",
-    "workbench.action.tasks.runTask"
+    "workbench.action.tasks.runTask",
   ],
   "C_Cpp.formatting": "clangFormat",
   "C_Cpp.workspaceParsingPriority": "medium",
   "C_Cpp.files.exclude": {
     "ext/**/*": true,
     "**/.vscode": true,
-    "**/.vs": true
+    "**/.vs": true,
   },
   "cmake.showOptionsMovedNotification": false,
   "C_Cpp.clang_format_fallbackStyle": "LLVM",
   "C_Cpp.codeAnalysis.exclude": {
-    "ext/**/*": true
+    "ext/**/*": true,
   },
   "glsllint.languageSettings": {
     "javascript": {
-      "parser": "TSAST"
+      "parser": "TSAST",
     },
     "javascriptreact": {
-      "parser": "TSAST"
+      "parser": "TSAST",
     },
     "typescript": {
-      "parser": "TSAST"
+      "parser": "TSAST",
     },
     "typescriptreact": {
-      "parser": "TSAST"
+      "parser": "TSAST",
     },
     "elm": {
       "parser": "REGEX",
       "patternStart": "\\[glsl",
-      "patternEnd": "\\|\\]"
-    }
+      "patternEnd": "\\|\\]",
+    },
   },
   "sherlock.userId": "1132c19c-0531-48db-8e0f-d5aebdf6a838",
   "sherlock.appRecommendations.ninja.enabled": false,
   "cSpell.language": "en,fr",
   "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "continue.enableTabAutocomplete": false,
   "files.associations": {
-    "*.gd": "gdscript"
+    "*.gd": "gdscript",
   },
   "[gdscript]": {
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
   },
   "files.exclude": {
-    "**/*.gd.uid": true
-  }
+    "**/*.gd.uid": true,
+  },
+  "cmake.showConfigureWithDebuggerNotification": false,
+  "claudeCode.preferredLocation": "panel",
+  "[cpp]": {
+    "editor.wordBasedSuggestions": "off",
+    "editor.semanticHighlighting.enabled": true,
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "editor.suggest.insertMode": "replace",
+    "editor.wordWrapColumn": 160,
+  },
 }

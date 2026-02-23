@@ -240,5 +240,5 @@ bindsym $mod+b exec .local/bin/bluetooth
 bindsym Scroll_Lock exec .local/bin/keyboardlight
 
 # auto-layout
-exec_always --no-startup-id i3-auto-layout
+exec_always --no-startup-id i3-autolayout autolayout
 
