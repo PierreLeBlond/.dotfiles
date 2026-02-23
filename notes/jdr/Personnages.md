@@ -44,7 +44,9 @@
 - Boite de Musa
 - Sifflet aux poissons
 - Poudre d'obsidienne
-- 2 canigus retractus
+- 1 canigus retractus
+- Jeu de dés
+- Bout de ronce
 ### Actions
 - A donné des plans de pont en métal foireux aux habitants de Claveau
 - A remis des têtes de statues de dieu exilé en place
@@ -74,6 +76,9 @@
 - Lettres de Zlatsko
 - Bout de chemise d'Amorie Treherne
 - Partition rose (aphrodisiaque)
+- Tenu de garde
+- Codex occultatum
+- Passe pour les cuisines du palais
 
 ### Actions
 - Commence un peu à être connu à Aria
