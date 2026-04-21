@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1e6610f324c95e62","type":"text","text":"","x":-40,"y":80,"width":250,"height":60},
+		{"id":"221b1b4618650c23","type":"file","file":"jdr/Épisode 8/Préparation.md","x":280,"y":-540,"width":400,"height":400},
+		{"id":"aad83f329903b918","type":"text","text":"Test","x":-40,"y":-370,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f80cb3aece5b90e2","fromNode":"aad83f329903b918","fromSide":"bottom","toNode":"1e6610f324c95e62","toSide":"top","color":"6"}
+	]
+}

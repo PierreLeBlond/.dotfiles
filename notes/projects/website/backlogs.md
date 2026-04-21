@@ -6,10 +6,17 @@ kanban-plugin: board
 
 ## FEATURES
 
+- [ ] Ground reflection
+- [ ] Lightmapping
+- [ ] Orbit controls with smooth limits
 
 
 ## BUGS
 
+- [ ] Portfolio material switcher positioning
+- [ ] page mask stays visible after concealing on mobile
+- [ ] Properly dispose 3d on page changes
+- [ ] Lazy load videos (and large images)
 
 
 ## NICE TO HAVE
@@ -20,6 +27,14 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Normal map texture filtering + png ?
+- [ ] Page transition duplicated content
+- [ ] Material smooth transitions
+- [ ] Wait for material to compile before display
+- [ ] Split freelance page and portfolio one
+- [ ] Improve turtle model size
+- [ ] Redo projects videos
+- [ ] Improve freelance page text
 - [ ] Wait for transition to finish before loading any 3d
 - [ ] Allow origin from subdomains (dynamically get subdomains)
 - [ ] No backface culling on turtle shell
