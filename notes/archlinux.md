@@ -437,3 +437,7 @@ On my maxwell architecture : https://archlinux.fr/accueil/le-driver-nvidia-590-a
 ## bluez bug
 
 https://github.com/bluez/bluez/issues/1896#issuecomment-3911151919
+
+## neovim
+
+`sudo pacman -S neovim`

@@ -107,6 +107,16 @@ source $ZSH/oh-my-zsh.sh
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
+_dotfiles() {
+  if [[ "${words[2]}" == "add" ]]; then
+    _files
+    return
+  fi
+  GIT_DIR="$HOME/.dotfilesgit" GIT_WORK_TREE="$HOME" _git "$@"
+}
+
+compdef _dotfiles dotfiles
+
 alias code='cursor . && exit'
 
 # For cursor to run
