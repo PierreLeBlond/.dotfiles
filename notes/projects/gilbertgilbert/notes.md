@@ -1,6 +1,7 @@
 ### Batch renaming exemples
 
 `rename .JPG .jpg *`
+`for i in *' '*; do mv "$i" "$(echo $i | sed -e 's/ /_/g')"; done`
 
 ### Bijoux en or
 
@@ -15,11 +16,4 @@ La license à expiré, pour l'instant le feed fonctionne encore, mais pas moyen 
 - **Suppression de la bannière "Cours de l'or"**
 - **Améliorer le style de l'encadré (trop gros et gris) -> Supprimé**
 - **Ajout de nouvelles photos de bannières -> Création de deux diaporamas, l'un pour mobile, l'autre pour tablette/desktop, avec des images cadrées différemment**
-
-### Pepper
-
-PEP 10 : variations doré, lentilles groseilles, et sous-variations ?
-PEP BO : variations dorés ?
-JONC ou BRAC PEP 21 : Photo unique PEP 21 A ?
-
-Prix variables ?
+- **Création d'un script google sheet pour générer un csv d'import à partir d'un tableau de nom, description et prix**

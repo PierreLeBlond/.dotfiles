@@ -17,15 +17,15 @@ Pierre
 
 
 
-| Nom                      | Site                                                   | Infos                                           | Rencontré ?                   | Refusé ?                        |
-| ------------------------ | ------------------------------------------------------ | ----------------------------------------------- | ----------------------------- | ------------------------------- |
-| Stell&Bontz              |                                                        | Message envoyé                                  | Se déplacer directement       |                                 |
-| Grisbois                 | Site down                                              | Contact Michel & Anaïg ?                        | Dispo pour échanger si jamais | Ne prend plus d'apprentis       |
-| GDSagem                  | http://gd-sagem.com/fr/accueil                         |                                                 |                               |                                 |
-| Hurpault Mutzy           |                                                        | Escalier, voir Jean-Marc vers 11h30             |                               |                                 |
-| Atelier du ruisseau bleu | https://atelierruisseaubleu.fr/                        | Conseillé par menuisier de grisbois             | Oui                           | Donne une réponse sous 14 jours |
-| Destribois               | https://menuiserie-destribois-strasbourg.com/          | Dessiner un plan (concours de l'année dernière) |                               |                                 |
-| Menuizim                 | https://www.menuizim.fr/                               | Un peu loin :/                                  |                               |                                 |
-| A.D.A Francis            | https://lemenuisier.fr/67/strasbourg/a-d-a-francis-17k | Conseillé par Juliette                          |                               |                                 |
-| Jantzy                   |                                                        |                                                 | Oui                           | Déjà plein                      |
-|                          |                                                        |                                                 |                               |                                 |
+| Nom                      | Site                                                   | Infos                                           | Rencontré ?                       | Refusé ?                        |
+| ------------------------ | ------------------------------------------------------ | ----------------------------------------------- | --------------------------------- | ------------------------------- |
+| Stell&Bontz              |                                                        | Message envoyé                                  | CV déposé, mais seulement à un rh |                                 |
+| Grisbois                 | Site down                                              | Contact Michel & Anaïg ?                        | Dispo pour échanger si jamais     | Ne prend plus d'apprentis       |
+| GDSagem                  | http://gd-sagem.com/fr/accueil                         |                                                 |                                   |                                 |
+| Hurpault Mutzy           |                                                        | Escalier, voir Jean-Marc vers 11h30             |                                   |                                 |
+| Atelier du ruisseau bleu | https://atelierruisseaubleu.fr/                        | Conseillé par menuisier de grisbois             | Oui                               | Donne une réponse sous 14 jours |
+| Destribois               | https://menuiserie-destribois-strasbourg.com/          | Dessiner un plan (concours de l'année dernière) |                                   |                                 |
+| Menuizim                 | https://www.menuizim.fr/                               | Un peu loin :/                                  |                                   |                                 |
+| A.D.A Francis            | https://lemenuisier.fr/67/strasbourg/a-d-a-francis-17k | Conseillé par Juliette                          |                                   |                                 |
+| Jantzy                   |                                                        |                                                 | Oui                               | Déjà plein                      |
+| Menuiserie du Rhin       |                                                        |                                                 |                                   |                                 |
