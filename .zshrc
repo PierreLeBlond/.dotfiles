@@ -152,6 +152,9 @@ export PROMPT_COMMAND="$PROMPT_COMMAND; enter_directory"
 # Add .NET Core SDK tools
 export PATH="$PATH:/home/pierre/.dotnet/tools"
 
+# go
+export GOPATH=$HOME/app/go
+
 # bun completions
 [ -s "/home/pierre/.bun/_bun" ] && source "/home/pierre/.bun/_bun"
 

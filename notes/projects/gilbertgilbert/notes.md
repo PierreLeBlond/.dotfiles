@@ -17,3 +17,5 @@ La license à expiré, pour l'instant le feed fonctionne encore, mais pas moyen 
 - **Améliorer le style de l'encadré (trop gros et gris) -> Supprimé**
 - **Ajout de nouvelles photos de bannières -> Création de deux diaporamas, l'un pour mobile, l'autre pour tablette/desktop, avec des images cadrées différemment**
 - **Création d'un script google sheet pour générer un csv d'import à partir d'un tableau de nom, description et prix**
+- **Ajout d'une balise h1 "Créatrice de bijoux à Paris" pour le référencement**
+- **Suppression  de l'option "Étirer la section" des diapos, ajout de css personnalisé pour obtenir le même résultat, sans saute au lancement de la page 

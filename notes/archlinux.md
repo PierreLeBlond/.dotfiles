@@ -109,6 +109,20 @@ ExecStart=
 ExecStart=/usr/bin/dhcpcd -b -q %I
 ```
 
+### OR wifi & ethernet switch with NetworkManager
+
+https://wiki.archlinux.org/title/NetworkManager
+
+`sudo pacman -S networkmanager`
+
+Disable existing other network services
+
+`sudo systemctl disable dhcpcd.service`
+`sudo systemctl disable iwd.service`
+
+Enable networkmanager
+
+`sudo systemctl enable --now NetworkManager.service`
 # setup environment
 
 ## create user
@@ -352,6 +366,8 @@ add
 extra_arguments = ["--enable-features=UseOzonePlatform", "--ozone-platform=wayland"]
 ```
 to `~/.config/spotify-launcher.conf`
+
+In case of `Can't play this file right now error`, try to install `pipewire-alsa` is using pipewire.
 ## fonts
 
 `yay ttf-google-fonts-git`
