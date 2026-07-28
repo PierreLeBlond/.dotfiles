@@ -264,10 +264,10 @@ ExecStart=-/sbin/agetty -o '-p -f -- \\u' --noclear --autologin <username> %I $T
 `yay keepmenu-git`
 `sudo pacman -S wl-clipboard`
 add `export PATH="$HOME/.local/bin:$PATH"` to `.zshenv`
-
 ## audio
 
-`sudo pacman -S alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth`
+~~`sudo pacman -S alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth`~~
+`sudo pacman -S pipewire-audio pipewire-pulseaudio`
 reboot
 
 ## bluetooth
