@@ -242,3 +242,7 @@ bindsym Scroll_Lock exec .local/bin/keyboardlight
 # auto-layout
 exec_always --no-startup-id i3-autolayout autolayout
 
+# autostart
+exec --no-startup-id steam
+exec --no-startup-id sunshine
+
